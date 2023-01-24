@@ -1,0 +1,105 @@
+.form-control:disabled, .form-control[readonly]{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	background: initial;
+	border-radius: initial;
+	text-align: center;
+	font-weight: 500;
+}
+
+.form-group label {
+	font-weight: initial !important;
+	color: #888888;
+	font-size: 0.7rem;
+}
+
+.table-flush td{
+	font-weight: initial !important;
+}
+
+.table-responsive{
+	overflow-y: auto !important;
+}
+
+.status-small{
+	font-size: 0.5rem !important;
+}
+
+.btn-xs{
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+	border-radius: initial;
+}
+
+.btn-custom{
+	padding: 5px !important;
+	font-weight: initial !important;
+}
+
+.new-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+#viewTextarea {
+	border-bottom: none !important;
+    background-attachment: local;
+    background-image:
+        linear-gradient(to right, white 10px, transparent 10px),
+        linear-gradient(to left, white 10px, transparent 10px),
+        repeating-linear-gradient(white, white 30px, #ccc 30px, #ccc 31px, white 31px);
+    line-height: 31px;
+    padding: 8px 10px;
+}
+
+.notificationbtn{
+	border: none;
+	background: initial;
+}
+
+.notificationBell{
+	font-size: 20px !important;
+}
+
+.numberCircle {
+	border-radius: 50%;
+	border: 2px solid #666;
+	padding: 13px;
+	font-weight: bolder;
+}
+
+#trHref{
+	cursor: pointer;
+}
+
+.notificationLabel{
+	color: #adadad;
+}
+
+.dataTables_wrapper {
+    padding: 10px;
+}
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+    color: inherit;
+    font-weight: 600;
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+.dataTables_filter label {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.dataTables_wrapper .dataTables_filter input {
+    border: 2px solid #aaa;
+    border-radius: 3px;
+    padding: 5px;
+    background-color: transparent;
+    margin-left: 3px;
+    margin-bottom: 14px;
+    width: 270px;
+}
+table#dataTablewithFilter th {
+    text-align: center;
+}

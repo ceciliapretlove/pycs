@@ -1,0 +1,134 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Created by Robin Eckert <const@const-iterator.de>
+FontName FXMatrix105PropPica
+FontSubfamily Regular
+UniqueID FontForge 2.0 : FX Matrix 105 Prop Pica Regular : 14-3-2013
+FullName FX Matrix 105 Prop Pica Regular
+Version Version 001.000 
+PostScriptName FXMatrix105PropPicaRegular
+LicenseURL http://scripts.sil.org/OFL
+Weight Bold
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 36
+UnderlinePosition 260
+FontHeightOffset 90
+Ascender 724
+Descender -280
+FontBBox -3 -281 559 726
+StartCharMetrics 113
+U 32 ; WX 667 ; N space ; G 3
+U 33 ; WX 278 ; N exclam ; G 4
+U 34 ; WX 444 ; N quotedbl ; G 5
+U 35 ; WX 667 ; N numbersign ; G 6
+U 36 ; WX 667 ; N dollar ; G 7
+U 37 ; WX 667 ; N percent ; G 8
+U 38 ; WX 667 ; N ampersand ; G 9
+U 39 ; WX 278 ; N quotesingle ; G 10
+U 40 ; WX 333 ; N parenleft ; G 11
+U 41 ; WX 333 ; N parenright ; G 12
+U 42 ; WX 667 ; N asterisk ; G 13
+U 43 ; WX 667 ; N plus ; G 14
+U 44 ; WX 389 ; N comma ; G 15
+U 45 ; WX 667 ; N hyphen ; G 16
+U 46 ; WX 333 ; N period ; G 17
+U 47 ; WX 556 ; N slash ; G 18
+U 48 ; WX 667 ; N zero ; G 19
+U 49 ; WX 444 ; N one ; G 20
+U 50 ; WX 667 ; N two ; G 21
+U 51 ; WX 667 ; N three ; G 22
+U 52 ; WX 667 ; N four ; G 23
+U 53 ; WX 667 ; N five ; G 24
+U 54 ; WX 667 ; N six ; G 25
+U 55 ; WX 667 ; N seven ; G 26
+U 56 ; WX 667 ; N eight ; G 27
+U 57 ; WX 667 ; N nine ; G 28
+U 58 ; WX 333 ; N colon ; G 29
+U 59 ; WX 333 ; N semicolon ; G 30
+U 60 ; WX 556 ; N less ; G 31
+U 61 ; WX 667 ; N equal ; G 32
+U 62 ; WX 556 ; N greater ; G 33
+U 63 ; WX 667 ; N question ; G 34
+U 64 ; WX 667 ; N at ; G 35
+U 65 ; WX 667 ; N A ; G 36
+U 66 ; WX 667 ; N B ; G 37
+U 67 ; WX 667 ; N C ; G 38
+U 68 ; WX 667 ; N D ; G 39
+U 69 ; WX 667 ; N E ; G 40
+U 70 ; WX 667 ; N F ; G 41
+U 71 ; WX 667 ; N G ; G 42
+U 72 ; WX 667 ; N H ; G 43
+U 73 ; WX 444 ; N I ; G 44
+U 74 ; WX 611 ; N J ; G 45
+U 75 ; WX 667 ; N K ; G 46
+U 76 ; WX 667 ; N L ; G 47
+U 77 ; WX 667 ; N M ; G 48
+U 78 ; WX 667 ; N N ; G 49
+U 79 ; WX 667 ; N O ; G 50
+U 80 ; WX 667 ; N P ; G 51
+U 81 ; WX 667 ; N Q ; G 52
+U 82 ; WX 667 ; N R ; G 53
+U 83 ; WX 667 ; N S ; G 54
+U 84 ; WX 667 ; N T ; G 55
+U 85 ; WX 667 ; N U ; G 56
+U 86 ; WX 667 ; N V ; G 57
+U 87 ; WX 667 ; N W ; G 58
+U 88 ; WX 556 ; N X ; G 59
+U 89 ; WX 667 ; N Y ; G 60
+U 90 ; WX 556 ; N Z ; G 61
+U 91 ; WX 444 ; N bracketleft ; G 62
+U 92 ; WX 556 ; N backslash ; G 63
+U 93 ; WX 444 ; N bracketright ; G 64
+U 94 ; WX 667 ; N asciicircum ; G 65
+U 95 ; WX 667 ; N underscore ; G 66
+U 96 ; WX 278 ; N grave ; G 67
+U 97 ; WX 667 ; N a ; G 68
+U 98 ; WX 611 ; N b ; G 69
+U 99 ; WX 611 ; N c ; G 70
+U 100 ; WX 611 ; N d ; G 71
+U 101 ; WX 667 ; N e ; G 72
+U 102 ; WX 556 ; N f ; G 73
+U 103 ; WX 611 ; N g ; G 74
+U 104 ; WX 611 ; N h ; G 75
+U 105 ; WX 444 ; N i ; G 76
+U 106 ; WX 500 ; N j ; G 77
+U 107 ; WX 556 ; N k ; G 78
+U 108 ; WX 444 ; N l ; G 79
+U 109 ; WX 667 ; N m ; G 80
+U 110 ; WX 611 ; N n ; G 81
+U 111 ; WX 667 ; N o ; G 82
+U 112 ; WX 611 ; N p ; G 83
+U 113 ; WX 611 ; N q ; G 84
+U 114 ; WX 611 ; N r ; G 85
+U 115 ; WX 667 ; N s ; G 86
+U 116 ; WX 611 ; N t ; G 87
+U 117 ; WX 667 ; N u ; G 88
+U 118 ; WX 667 ; N v ; G 89
+U 119 ; WX 667 ; N w ; G 90
+U 120 ; WX 556 ; N x ; G 91
+U 121 ; WX 667 ; N y ; G 92
+U 122 ; WX 556 ; N z ; G 93
+U 123 ; WX 500 ; N braceleft ; G 94
+U 124 ; WX 278 ; N bar ; G 95
+U 125 ; WX 500 ; N braceright ; G 96
+U 126 ; WX 667 ; N asciitilde ; G 97
+U 163 ; WX 667 ; N sterling ; G 98
+U 167 ; WX 556 ; N section ; G 99
+U 176 ; WX 444 ; N degree ; G 100
+U 196 ; WX 667 ; N Adieresis ; G 101
+U 214 ; WX 667 ; N Odieresis ; G 102
+U 220 ; WX 667 ; N Udieresis ; G 103
+U 223 ; WX 611 ; N germandbls ; G 104
+U 224 ; WX 667 ; N agrave ; G 105
+U 228 ; WX 667 ; N adieresis ; G 106
+U 232 ; WX 667 ; N egrave ; G 107
+U 236 ; WX 333 ; N igrave ; G 108
+U 242 ; WX 556 ; N ograve ; G 109
+U 246 ; WX 556 ; N odieresis ; G 110
+U 249 ; WX 611 ; N ugrave ; G 111
+U 252 ; WX 611 ; N udieresis ; G 112
+EndCharMetrics
+EndFontMetrics
