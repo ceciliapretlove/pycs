@@ -463,7 +463,7 @@ textarea{
 .desktop-nav .navbar .navbar-nav .nav-item:hover .dropdown-menu{
     top:100%;
     opacity:1;
-    margin-top:20px;
+    margin-top:36px;
     -webkit-transform:translateY(1);
     transform:translateY(1);
     visibility:visible
@@ -1052,7 +1052,7 @@ textarea{
     background-image:url(../images/banner/banner-img6.jpg)
 }
 .slider-item.banner-bg-7{
-    background-image:url(../images/banner/banner-img7.jpg)
+    background-image:url(../images/banner/banner1.jpg)
 }
 .slider-item.banner-bg-8{
     background-image:url(../images/banner/banner-img8.jpg)
@@ -2798,8 +2798,12 @@ textarea{
     font-size:48px;
     margin-bottom:20px
 }
+.how-to-apply h3{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
 .how-to-apply p{
-    margin-bottom:30px
+    margin-bottom:20px
 }
 .how-to-apply .apply-list{
     padding-bottom:20px;
@@ -2819,19 +2823,93 @@ textarea{
 .how-to-apply .apply-list ul li i{
     position:absolute;
     color:#da251c;
-    left:0
+    left:0;
+
 }
-.submit{
-    padding-bottom:35px;
+
+.how-to-apply .enrollment-list{
+    padding-bottom:20px;
     margin-bottom:30px;
     border-bottom:1px solid #eee
 }
-.submit h3{
+.how-to-apply .enrollment-list ul{
+    padding-left:0;
+    margin-bottom:0
+}
+.how-to-apply .enrollment-list ul li{
+    list-style-type:none;
+    margin-bottom:12px;
+    position:relative;
+    padding-left:20px
+}
+.how-to-apply .enrollment-list ul li i{
+    position:absolute;
+    color:#da251c;
+    left:0;
+      font-size: 12px;
+}
+
+.how-to-apply .admission-list{
+padding: 20px 30px;
+}
+.how-to-apply .admission-list ul{
+    padding-left:0;
+    margin-bottom:0
+}
+.how-to-apply .admission-list ul li{
+    list-style-type:none;
+    margin-bottom:12px;
+    position:relative;
+    padding-left:20px
+}
+.how-to-apply .admission-list ul li i{
+    position:absolute;
+    color:#da251c;
+    left:0;
+      font-size: 12px;
+}
+.number-list{
+
+    padding: 20px 30px;
+}
+.number-list ul{
+    padding-left:0;
+    margin-bottom:0
+}
+.number-list  li::marker {
+    font-size: 13px;
+    color: #da251c;
+}
+.number-list ul li{
+    margin-bottom: 12px;
+    position: relative;
+    padding-left: 10px;
+    margin-left: 15px;
+    list-style-type: decimal;
+}
+.number-list ul li i{
+    position:absolute;
+    color:#da251c;
+    left:0;
+      font-size: 12px;
+}
+.section-paragraph{
+    padding-bottom:15px;
+    margin-bottom:30px;
+    border-bottom:1px solid #eee
+}
+.section-paragraph h3{
     font-size:30px;
     margin-bottom:20px
 }
-.submit p{
+.section-paragraph p{
     margin-bottom:25px
+}
+
+.enrollment-for-learners ol li {
+    list-style-type: upper-latin;
+    padding-left: 20px;
+    margin-bottom: 20px;
 }
 .financial{
     margin-bottom:30px
