@@ -29,8 +29,12 @@ Route::get('/admission', [WebsiteController::class, 'admission']);
 Route::get('/school-calendar', [WebsiteController::class, 'schoolcalendar']);
 Route::get('/galleries', [WebsiteController::class, 'galleries']);
 Route::get('/curriculum', [WebsiteController::class, 'curriculum']);
-
-
+Route::get('/pre-elementary', [WebsiteController::class, 'preelementary']);
+Route::get('/grade-school', [WebsiteController::class, 'gradeschool']);
+Route::get('/junior-hs', [WebsiteController::class, 'juniorhs']);
+Route::get('/senior-hs', [WebsiteController::class, 'seniorhs']);
+Route::get('/special-program', [WebsiteController::class, 'specialprogram']);
+Route::get('/academic-standard', [WebsiteController::class, 'academicstandard']);
 
 Route::group( ['middleware' => 'auth' ], function()
 {

@@ -12,7 +12,7 @@
       <div class="row">
          <div class="col-lg-8">
             <div class="how-to-apply">
-               <h3>Enrollment period and opening of classes</h3>
+               <h3>Enrollment Period and Opening of Classes</h3>
                <p>Private schools may modify the calendar to suit their context as long as the appropriate DepEd Regional
                   Officer, as the case may be, is informed in advance of any modification and the school opening date and
                   the minimum number of class hours and class days are observed.
@@ -30,7 +30,7 @@
                   </div>
                </div>
                <div id="learning-cycle" class="section-paragraph">
-                  <h3>Class periods and learning cycle</h3>
+                  <h3>Class Periods and Learning Cycle</h3>
                   <p>PYCS, as it is highly engaged to improve the learners’ study habit and learning commitment took the
                      first big step to embrace the six (6)-day learning cycle. Yuh Chiauians will be counting the days of
                      school year as part of a new rotating six-day learning cycle. With this new class schedule, the biggest
@@ -38,7 +38,7 @@
                   </p>
                </div>
                <div id="enrollment-class-size" class="section-paragraph">
-                  <h3>Enrollment  and class size</h3>
+                  <h3>Enrollment and Class Size</h3>
                   <p>The enrolment and class size in every subject of each private school shall be determined by the School
                      Principal taking into account the total absorption capacity of its facilities, level of instruction, the nature
                      of the subject, and such other factors as may be conducive to the learning process.
@@ -49,7 +49,7 @@
                   <p>PYCS, as a private Filipino-Chinese school has a right to set the class size limit.</p>
                </div>
                <div id="enrollment-learners" class="section-paragraph">
-                  <h3>Enrollment of learners</h3>
+                  <h3>Enrollment of Learners</h3>
                   <p>Our learners at Philippine Yuh Chiau School, Inc. are not abstract beings, but of real families. The
                      cooperation of the parents / guardian in the academic and discipline formations of the learners are
                      paramount. Parents / guardian therefore are expected to work with the Administration, the Faculty and
@@ -109,9 +109,9 @@
                <h3>Additional Information</h3>
                <div class="list">
                   <ul>
-                     <li><a href="#learning-cycle">Class periods and learning cycle</a></li>
-                     <li><a href="#enrollment-class-size">Enrollment and class size</a></li>
-                     <li><a href="#enrollment-learners">Enrollment of learners</a></li>
+                     <li><a href="#learning-cycle">Class periods and Learning Cycle</a></li>
+                     <li><a href="#enrollment-class-size">Enrollment and Class Size</a></li>
+                     <li><a href="#enrollment-learners">Enrollment of Learners</a></li>
         
                   </ul>
                </div>

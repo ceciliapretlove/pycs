@@ -137,7 +137,7 @@
                      </div>
                      <div class="academics-area pt-50 pb-70">
                         <div class="row">
-                           <h3 class="ptb-50">Founders Of Philippine Yuh Chiau School</h3>
+                           <h3 class="ptb-50">Founders of Philippine Yuh Chiau School</h3>
                            <div class="col-lg-12">
                               <div class="academics-left-content">
                                  <div class="row justify-content-center">
@@ -219,7 +219,7 @@
                         </div>
                      </div>
                      <div>
-                        <h3 class="ptb-50">Presidents Of The Board Of Trustees</h3>
+                        <h3 class="ptb-50">Presidents of the Board of Trustees</h3>
                         <div class="apply-list">
                            <div class="row">
                               <div class="col-lg-6 col-md-6">
@@ -259,7 +259,7 @@
                         </div>
                      </div>
                      <div>
-                        <h3 class="ptb-50">School Principals Of Philippine Yuh Chiau School, Inc.</h3>
+                        <h3 class="ptb-50">School Principals of Philippine Yuh Chiau School, Inc.</h3>
                         <div class="apply-list">
                            <div class="row">
                               <div class="col-lg-6 col-md-6">

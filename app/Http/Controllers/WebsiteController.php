@@ -40,6 +40,36 @@ class WebsiteController extends Controller
         return view('website-pages.curriculum');
     }
 
+        public function preelementary()
+    {
+        return view('website-pages.pre-elementary');
+    }
+
+        public function gradeschool()
+    {
+        return view('website-pages.grade-school');
+    }
+
+        public function juniorhs()
+    {
+        return view('website-pages.junior-hs');
+    }
+
+        public function seniorhs()
+    {
+        return view('website-pages.senior-hs');
+    }
+            public function specialprogram()
+    {
+        return view('website-pages.special-program');
+    }
+
+        public function academicstandard()
+    {
+        return view('website-pages.academic-standard');
+    }
+
+
 
     
 }

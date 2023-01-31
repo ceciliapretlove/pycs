@@ -2093,7 +2093,7 @@ textarea{
     margin-bottom:30px
 }
 .overview .overview-box h4{
-    font-size:18px;
+    font-size:20px;
     position:relative
 }
 .overview .overview-box h4::before{
@@ -2863,6 +2863,26 @@ padding: 20px 30px;
     padding-left:20px
 }
 .how-to-apply .admission-list ul li i{
+    position:absolute;
+    color:#da251c;
+    left:0;
+      font-size: 12px;
+}
+
+.circle-list{
+padding: 20px 30px;
+}
+.circle-list ul{
+    padding-left:0;
+    margin-bottom:0
+}
+.circle-list ul li{
+    list-style-type:none;
+    margin-bottom:12px;
+    position:relative;
+    padding-left:20px
+}
+.circle-list ul li i{
     position:absolute;
     color:#da251c;
     left:0;
@@ -4653,7 +4673,7 @@ padding: 20px 30px;
 .accordion .accordion-item{
     margin-bottom:20px;
     border:1px solid rgba(227,40,69,.4);
-    border-radius:10px
+    border-radius:0px
 }
 .accordion .accordion-item:last-child{
     margin-bottom:0
@@ -4682,7 +4702,7 @@ padding: 20px 30px;
     font-size:20px;
     color:#29166f;
     text-align:center;
-    content:"\ea13";
+    content:"\ea4a";
     font-family:remixicon!important;
     position:relative;
     top:-2px
@@ -4990,3 +5010,5 @@ ul.confucian-list span{
     color:#48576e;
     font-weight: 600;
 }
+
+

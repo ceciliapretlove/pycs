@@ -102,15 +102,31 @@
                                  <a href="admission" class="nav-link">Admission Requirements</a>
                               </li>
                               <li class="nav-item">
-                                 <a href="curriculum" class="nav-link">Curriculum</a>
+                              <a href="#" class="nav-link dropdown-toggle">
+                              Curriculum
+                              </a>
+                              <ul class="dropdown-menu">
+                              <li class="nav-item">
+                              <a href="/pre-elementary" class="nav-link">Pre-Elementary</a>
                               </li>
-                              {{-- <li class="nav-item">
+                              <li class="nav-item">
+                              <a href="/grade-school" class="nav-link">Grade School</a>
+                              </li>
+                                           <li class="nav-item">
+                              <a href="junior-hs" class="nav-link">Junior High School</a>
+                              </li>
+                                                       <li class="nav-item">
+                              <a href="senior-hs" class="nav-link">Senior High School</a>
+                              </li>
+                              </ul>
+                              </li>
+                           <li class="nav-item">
                                  <a href="special-program" class="nav-link">Special Program</a>
                               </li>
                               <li class="nav-item">
                                  <a href="academic-standard" class="nav-link">Academic Standards</a>
                               </li>
-                              <li class="nav-item">
+                             {{--  <li class="nav-item">
                                  <a href="special-program" class="nav-link">Special Program</a>
                               </li>
                               <li class="nav-item">
@@ -121,7 +137,7 @@
                               </li>
                               <li class="nav-item">
                                  <a href="alumni.html" class="nav-link">Clubs / Organizations</a>
-                              </li> --}}
+                              </li>  --}}
                            </ul>
                         </li>
                         <li class="nav-item">

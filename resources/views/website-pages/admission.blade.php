@@ -34,7 +34,7 @@
                         </div>
                      </div>
                   </div>
-                  <h5>Old learners</h5>
+                  <h5>Old Learners</h5>
                   <div class="admission-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -45,7 +45,7 @@
                         </div>
                      </div>
                   </div>
-                  <h5>Foreign learners</h5>
+                  <h5>Foreign Learners</h5>
                   <div class="admission-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -146,7 +146,7 @@
                   </div>
                </div>
                <div class="section-paragraph" id="policy-on-withholding-of-credentials">
-                  <h3>Policy On Withholding Of Credentials</h3>
+                  <h3>Policy on Withholding of Credentials</h3>
                   <p><em>(The Revised Manual of Regulations for Private Schools in Basic Education; Sec. 128)</em></p>
                   <p>The release of the transfer credentials of any learner may be withheld for reasons of suspension,
                      expulsion, or <strong>nonpayment</strong> of financial obligations or property responsibility of the learner to the school.
