@@ -17,7 +17,7 @@
       <link rel="stylesheet" href="./assets/css/dark.css">
       <link rel="stylesheet" href="./assets/css/responsive.css">
       <link rel="icon" type="image/png" href="assets/images/favicon.png">
-      <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
+      <link href="./assets/css/remixicon.css" rel="stylesheet">
       <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
       <title>PYCS - Philippine Yu Chiau School</title>
       <script type="text/javascript">

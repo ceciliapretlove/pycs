@@ -5,7 +5,7 @@
          <div class="owl-stage-outer">
             <div class="owl-stage" style="transform: translate3d(-7612px, 0px, 0px); transition: all 1s ease 0s; width: 13321px;">
                <div class="owl-item cloned" style="width: 1903px;">
-                  <div class="slider-item banner-bg-7">
+                  <div class="slider-item" style="background-image: url('{{ asset('assets/images/banner/banner-1.jpg') }}')" >
                      <div class="container-fluid">
                         <div class="slider-content">
                            <h1>Your Future Start With PYCS</h1>
@@ -16,7 +16,7 @@
                   </div>
                </div>
                <div class="owl-item cloned" style="width: 1903px;">
-                  <div class="slider-item banner-bg-8">
+                  <div class="slider-item" style="background-image: url('{{ asset('assets/images/banner/banner-2.jpg') }}')" >
                      <div class="container-fluid">
                         <div class="slider-content">
                            <h1>Welcome to Philippine Yu Chiau School</h1>

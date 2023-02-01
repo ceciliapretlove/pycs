@@ -151,10 +151,10 @@
                <h3>Additional Information</h3>
                <div class="list">
                   <ul>
-                     <li><a href="#learning-cycle">Pre-Elementary</a></li>
-                     <li><a href="#enrollment-class-size">Grade School</a></li>
-                     <li><a href="#enrollment-learners">Junior High School</a></li>
-                     <li><a href="#enrollment-learners">Senior High School</a></li>
+                     <li><a href="/pre-elementary">Pre-Elementary</a></li>
+                     <li><a href="/grade-school">Grade School</a></li>
+                     <li><a href="/junior-hs">Junior High School</a></li>
+                     <li><a href="/senior-hs">Senior High School</a></li>
                   </ul>
                </div>
             </div>

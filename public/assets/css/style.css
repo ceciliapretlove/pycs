@@ -1033,6 +1033,14 @@ textarea{
     padding-bottom:200px;
     padding-left:60px
 }
+.slider-item::before{
+content: '';
+    position: absolute;
+    height: 100%;
+    top: 0;
+    width: 100%;
+    background: rgb(0 0 0 / 10%);
+}
 .slider-item.banner-bg-1{
     background-image:url(../images/banner/banner-img1.jpg)
 }
@@ -1060,7 +1068,9 @@ textarea{
 .slider-content{
     max-width:740px;
     margin-left:0;
-    margin-right:auto
+    margin-right:auto;
+    position:relative;
+        z-index: 999;
 }
 .slider-content h1{
     font-size:65px;
