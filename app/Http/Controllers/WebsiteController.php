@@ -11,10 +11,34 @@ class WebsiteController extends Controller
         return view('website-pages.welcome');
     }
 
+
+//About
     public function about()
     {
         return view('website-pages.about');
     }
+        
+    public function disciplineStandardsandPolicies()
+    {
+        return view('website-pages.discipline-standards-and-policies');
+    }
+
+    public function healthStandardsandPolicies()
+    {
+        return view('website-pages.health-standards-and-policies');
+    }
+
+    public function offensesandSanctions()
+    {
+        return view('website-pages.offenses-and-sanctions');
+    }
+
+    public function generalPolicies()
+    {
+        return view('website-pages.general-policies');
+    }
+
+// Admission
     
     public function enrollment()
     {
@@ -27,7 +51,7 @@ class WebsiteController extends Controller
     }
     public function schoolcalendar()
     {
-        return view('website-pages.schoolcalendar');
+        return view('website-pages.school-calendar');
     }
     
     public function galleries()
@@ -68,8 +92,18 @@ class WebsiteController extends Controller
     {
         return view('website-pages.academic-standard');
     }
+        public function schoolyearendactivities()
+    {
+        return view('website-pages.school-year-end-activities');
+    }
 
+                public function schoolprograms()
+    {
+        return view('website-pages.school-programs');
+    }
 
-
-    
+                    public function clubsorganization()
+    {
+        return view('website-pages.clubs-organization');
+    }
 }

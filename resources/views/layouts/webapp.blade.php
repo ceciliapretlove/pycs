@@ -86,9 +86,28 @@
                            </a>
                         </li>
                         <li class="nav-item">
-                           <a href="/about" class="nav-link">
+                           <a href="/about" class="nav-link dropdown-toggle">
                            About
                            </a>
+                           <ul class="dropdown-menu">
+                              <li class="nav-item">
+                                 <a href="/about" class="nav-link">About PYCS</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a href="/discipline-standards-and-policies" class="nav-link">Discipline Standards and Policies</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a href="/health-standards-and-policies" class="nav-link">Health Standards and Policies</a>
+                              </li>
+              
+                              <li class="nav-item">
+                                 <a href="/offenses-and-sanctions" class="nav-link">Offenses and Sanctions</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a href="/general-policies" class="nav-link">General Policies</a>
+                              </li>
+  
+                           </ul>
                         </li>
                         <li class="nav-item">
                            <a href="/admission" class="nav-link dropdown-toggle">
@@ -101,43 +120,50 @@
                               <li class="nav-item">
                                  <a href="admission" class="nav-link">Admission Requirements</a>
                               </li>
+                           </ul>
+                        </li>
+                        <li class="nav-item">
+                           <a href="/admission" class="nav-link dropdown-toggle">
+                           Academics
+                           </a>
+                           <ul class="dropdown-menu">
                               <li class="nav-item">
-                              <a href="#" class="nav-link dropdown-toggle">
-                              Curriculum
-                              </a>
-                              <ul class="dropdown-menu">
-                              <li class="nav-item">
-                              <a href="/pre-elementary" class="nav-link">Pre-Elementary</a>
-                              </li>
-                              <li class="nav-item">
-                              <a href="/grade-school" class="nav-link">Grade School</a>
-                              </li>
-                                           <li class="nav-item">
-                              <a href="junior-hs" class="nav-link">Junior High School</a>
-                              </li>
-                                                       <li class="nav-item">
-                              <a href="senior-hs" class="nav-link">Senior High School</a>
-                              </li>
-                              </ul>
-                              </li>
-                           <li class="nav-item">
-                                 <a href="special-program" class="nav-link">Special Program</a>
-                              </li>
-                              <li class="nav-item">
-                                 <a href="academic-standard" class="nav-link">Academic Standards</a>
-                              </li>
-                             {{--  <li class="nav-item">
-                                 <a href="special-program" class="nav-link">Special Program</a>
+                                 <a href="#" class="nav-link dropdown-toggle">
+                                 Curriculum
+                                 </a>
+                                 <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                       <a href="/pre-elementary" class="nav-link">Pre-Elementary</a>
+                                    </li>
+                                    <li class="nav-item">
+                                       <a href="/grade-school" class="nav-link">Grade School</a>
+                                    </li>
+                                    <li class="nav-item">
+                                       <a href="junior-hs" class="nav-link">Junior High School</a>
+                                    </li>
+                                    <li class="nav-item">
+                                       <a href="senior-hs" class="nav-link">Senior High School</a>
+                                    </li>
+                                 </ul>
                               </li>
                               <li class="nav-item">
-                                 <a href="clubs-organization" class="nav-link">Clubs / Organizations</a>
+                                 <a href="/special-program" class="nav-link">Special Program</a>
                               </li>
                               <li class="nav-item">
-                                 <a href="discipline-standards-and-policies" class="nav-link">Discipline Standards And Policies</a>
+                                 <a href="/academic-standard" class="nav-link">Academic Standards</a>
                               </li>
                               <li class="nav-item">
-                                 <a href="alumni.html" class="nav-link">Clubs / Organizations</a>
-                              </li>  --}}
+                                 <a href="/culminating-activities" class="nav-link">Culminating Activities</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a href="/school-programs" class="nav-link">School Programs</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a href="/clubs-organization" class="nav-link">Clubs / Organizations</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a href="/school-year-end-activities" class="nav-link">School Year-End Activities</a>
+                              </li>
                            </ul>
                         </li>
                         <li class="nav-item">
@@ -150,17 +176,7 @@
                            Galleries
                            </a>
                         </li>
-                        <li class="nav-item">
-                           <a href="curriculum" class="nav-link">
-                           Curriculum
-                           </a>
-                        </li>
                      </ul>
-{{--                      <div class="others-options">
-                        <div class="icon">
-                           <i class="ri-menu-3-fill" data-bs-toggle="modal" data-bs-target="#sidebarModal"></i>
-                        </div>
-                     </div> --}}
                   </div>
                </nav>
             </div>

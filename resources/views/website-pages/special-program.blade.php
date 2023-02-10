@@ -12,7 +12,7 @@
       <div class="row">
          <div class="col-lg-8">
             <div class="overview">
-               <h3>Esm Intensive Program</h3>
+               <h3>ESM Intensive Program</h3>
                <p>Philippine Yuh Chiau School, Inc. paves way to another avenue of honing the innate and developed
                   skills of the learners in the fields of Science, Mathematics, and Language. The Yuh Chiauians set their
                   academic standing in the top priority; hence, they really give importance to their academic class hours.
