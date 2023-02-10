@@ -19,7 +19,7 @@
                </p>
                <div class="section-paragraph" id="documents">
                   <h3>Documents</h3>
-                  <h5>New / Returning Learner-applicant</h5>
+                  <h5>New / Returning Learner-Applicant</h5>
                   <div class="admission-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -61,7 +61,7 @@
                </div>
                <div class="section-paragraph" id="admission-procedure">
                   <h3>Admission Procedure</h3>
-                  <h5>New / Returning / Foreign learner-applicants</h5>
+                  <h5>New / Returning / Foreign Learner-Applicant</h5>
                   <div class="number-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -96,7 +96,7 @@
                   </div>
                </div>
                <div class="section-paragraph" id="rules-for-early-registration">
-                  <h3>Rules For Early Registration</h3>
+                  <h3>Rules for Early Registration</h3>
                   <p>The enrollment of learners in every private school shall be conducted during the early registration days
                      indicated on the pertinent procedures of the school.
                   </p>

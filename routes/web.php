@@ -51,7 +51,7 @@ Route::get('/academic-standard', [WebsiteController::class, 'academicstandard'])
 Route::get('/school-year-end-activities', [WebsiteController::class, 'schoolyearendactivities']);
 Route::get('/school-programs', [WebsiteController::class, 'schoolprograms']);
 Route::get('/clubs-organization', [WebsiteController::class, 'clubsorganization']);
-
+Route::get('/culminating-activities', [WebsiteController::class, 'culminatingactivities']);
 
 
 Route::group( ['middleware' => 'auth' ], function()

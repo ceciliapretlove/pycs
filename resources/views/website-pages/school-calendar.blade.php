@@ -120,40 +120,10 @@
                <div class="serch-content">
                   <h3>Search</h3>
                   <div class="form-group">
-                     <input type="text" class="form-control" placeholder="Find Your Course" fdprocessedid="8x0dje">
+                     <input type="text" class="form-control" placeholder="Search Event" fdprocessedid="8x0dje">
                      <button type="submit" class="src-btn" fdprocessedid="y1omhp">
                      <i class="flaticon-search"></i>
                      </button>
-                  </div>
-               </div>
-               <div class="location-type">
-                  <h3>Event Type</h3>
-                  <div class="form-check">
-                     <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                     <label class="form-check-label" for="flexCheckDefault">
-                     On Campus
-                     </label>
-                  </div>
-                  <div class="form-check">
-                     <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked="">
-                     <label class="form-check-label" for="flexCheckChecked">
-                     Online
-                     </label>
-                  </div>
-               </div>
-               <div class="program-level">
-                  <h3>Program Level</h3>
-                  <div class="form-check">
-                     <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
-                     <label class="form-check-label" for="flexCheckDefault2">
-                     Graduate
-                     </label>
-                  </div>
-                  <div class="form-check">
-                     <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked1" checked="">
-                     <label class="form-check-label" for="flexCheckChecked1">
-                     Undergraduate
-                     </label>
                   </div>
                </div>
             </div>

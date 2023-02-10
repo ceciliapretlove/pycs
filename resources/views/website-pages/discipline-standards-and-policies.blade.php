@@ -115,7 +115,7 @@
                   </div>
                </div>
                <div class="overview-box">
-                  <h4>Grooming, Hairstyle And Accessories</h4>
+                  <h4>Grooming, Hairstyle and Accessories</h4>
                   <div class="circle-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">

@@ -97,13 +97,17 @@ class WebsiteController extends Controller
         return view('website-pages.school-year-end-activities');
     }
 
-                public function schoolprograms()
+        public function schoolprograms()
     {
         return view('website-pages.school-programs');
     }
 
-                    public function clubsorganization()
+        public function clubsorganization()
     {
         return view('website-pages.clubs-organization');
+    }
+        public function culminatingactivities()
+    {
+        return view('website-pages.culminating-activities');
     }
 }

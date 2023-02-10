@@ -38,7 +38,7 @@
       </div>
       <div class="top-header-area">
          <div class="container-fluid">
-            <div class="row align-items-center">
+{{--             <div class="row align-items-center">
                <div class="col-lg-6 col-md-6">
                   <!--            <div class="header-left-content">
                      <p>Get the latest updates and Sanu's response to COVID-19</p>
@@ -57,7 +57,7 @@
                      </div>
                   </div>
                </div>
-            </div>
+            </div> --}}
          </div>
       </div>
       <div class="navbar-area nav-bg-2">
@@ -108,6 +108,11 @@
                               </li>
   
                            </ul>
+                        </li>
+                                                <li class="nav-item">
+                           <a href="school-calendar" class="nav-link">
+                           School Calendar
+                           </a>
                         </li>
                         <li class="nav-item">
                            <a href="/admission" class="nav-link dropdown-toggle">
@@ -166,11 +171,7 @@
                               </li>
                            </ul>
                         </li>
-                        <li class="nav-item">
-                           <a href="school-calendar" class="nav-link">
-                           School Calendar
-                           </a>
-                        </li>
+
                         <li class="nav-item">
                            <a href="galleries" class="nav-link">
                            Galleries

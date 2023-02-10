@@ -13,12 +13,20 @@
          <div class="col-lg-8">
             <div class="overview ">
                <p>The Junior High School Department of Philippine Yuh Chiau School, Inc. aims to:</p>
-               * reaffirm, reinforce, and intensify the discipline formation and academic foundations acquired
-               by the learners in the Grade School;
-               * prepare the learners for Senior High School;
-               * develop them to be advocates of friendship and unity, to be globally competent, and
-               contributors in the attainment of local, national, and global progress; and
-               * instill in them the core values and Confucian virtues of the ideal Yuh Chiauians.
+
+               <div class="circle-list px-3">
+                     <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                           <ul>
+                           <li><i class="ri-checkbox-circle-line"></i>Reaffirm, reinforce, and intensify the discipline formation and academic foundations acquired
+               by the learners in the Grade School;</li>
+                           <li><i class="ri-checkbox-circle-line"></i>Prepare the learners for Senior High School;</li>
+                           <li><i class="ri-checkbox-circle-line"></i>Develop them to be advocates of friendship and unity, to be globally competent, and
+               contributors in the attainment of local, national, and global progress; and</li>
+                           <li><i class="ri-checkbox-circle-line"></i> Instill in them the core values and Confucian virtues of the ideal Yuh Chiauians.</li>
+                        </ul></div>
+                     </div>
+                  </div>
                <p>The Academic Curriculum of the Junior High School Department is based on the Kto12 Curriculum of the
                   Department of Education, and aligned with the development of the 21 st Century Skills. However, some
                   reasonable modifications are made to conform with the distinct educational needs of every Yuh Chiauian.
