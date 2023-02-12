@@ -26,8 +26,7 @@
                   </div>
                </div>
             </div>
-
-                        <div class="single-events-card style-4">
+            <div class="single-events-card style-4">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/independence.webp" >
@@ -40,8 +39,7 @@
                   </div>
                </div>
             </div>
-
-                        <div class="single-events-card style-4">
+            <div class="single-events-card style-4">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/new_learners.jpeg" >
@@ -54,8 +52,7 @@
                   </div>
                </div>
             </div>
-
-                        <div class="single-events-card style-4">
+            <div class="single-events-card style-4">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/school-starts.jpg" >
@@ -68,10 +65,7 @@
                   </div>
                </div>
             </div>
-
-
-
-                        <div class="single-events-card style-4">
+            <div class="single-events-card style-4">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/assesment.jpg" >
@@ -81,13 +75,10 @@
                      <span class="theme">  <strong>Theme:</strong> Punctuality, Responsibility, Thriftiness, Self-discipline, Obedience</span>
                      <h5>*Chinese Assessment Week </h5>
                      <h5>*考核周</h5>
-                
                   </div>
                </div>
             </div>
-
-
-                        <div class="single-events-card style-4">
+            <div class="single-events-card style-4">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/assesment.jpg" >
@@ -97,20 +88,204 @@
                      <span class="theme">  <strong>Theme:</strong> Punctuality, Responsibility, Thriftiness, Self-discipline, Obedience</span>
                      <h5>*English Assessment Week </h5>
                      <h5>*考核周</h5>
-                
                   </div>
                </div>
             </div>
-                        <div class="single-events-card style-4">
+            <div class="single-events-card style-4">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/heroesday.jpg" >
                   </div>
                   <div class="events-content col-8">
                      <h4> August 29 (Mon.)</h4>
-                       <span class="theme">  <strong>Theme:</strong> Punctuality, Responsibility, Thriftiness, Self-discipline, Obedience</span>
+                     <span class="theme">  <strong>Theme:</strong> Punctuality, Responsibility, Thriftiness, Self-discipline, Obedience</span>
                      <h5>**National Heroes’ Day</h5>
                      <h5> **国家英雄日</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/long-weekend.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4> September  29 (Thurs.)</h4>
+                     <span class="theme">  <strong>Theme:</strong> Punctuality, Responsibility, Thriftiness, Self-discipline, Obedience</span>
+                     <h5>*Learners’ Long Weekend</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/workshop.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4> September  29 (Thurs.)</h4>
+                     <span class="theme">  <strong>Theme:</strong> Punctuality, Responsibility, Thriftiness, Self-discipline, Obedience</span>
+                     <h5>*Teaching Personnel w/ SP: Revisiting and Re-alignment of Grading System</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/workshop.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>September 30 (Friday)</h4>
+                     <span class="theme">  <strong>Theme:</strong> Punctuality, Responsibility, Thriftiness, Self-discipline, Obedience</span>
+                     <h5>*Teachers’ Day</h5>
+                     <h5>*教师节</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/school-starts.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>October 3</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>*Start of 2nd Term - Synchronous &amp; Asynchronous LAs</h5>
+                     <h5>*第二学期开始 - 同步和非同步学习活动</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/sports.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>October 3-7</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>*Departmental Mini-Sports Festival</h5>
+                     <h5>*部门小型体育节</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/independence.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>#November 4 (Fri.)</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>***Local Holiday – Cabatuan Day 当地假日</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/independence.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>#November 30 (Wed.)</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>**Bonifacio Day 英雄日</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/classes.avif" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>December 5-7</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>*English &amp; Chinese Pre-Elementary and Grade School Assessment Week</h5>
+                     <h5>*Regular classes for JSHS</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/party.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>December 7PM</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>*Pre-Elementary Christmas Program</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/independence.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4> #December 8 (Thurs.)</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>**Feast of the Immaculate Conception 圣母玛利亚节m</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/assesment.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>December 9, 12-13</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>*English &amp; Chinese JSHS Assessment Week 初中及高中部中英文考核周</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/checking.avif" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>December 12-13</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>*Grade School Review &amp; Re-checking of Test Papers</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/party.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>December 14</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>*Grade School Classroom-Based Christmas Program (AM only)</h5>
+                     <h5>*JSHS Review and Re-checking of test papers (whole day)</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/party.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>December 15</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>*AM Learners’ Classroom-Based Christmas Program; PM: Teachers’ Program</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/holiday.avif" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>#December 16</h4>
+                     <span class="theme">  <strong>Theme:</strong> Respect, Trustworthiness, Resilience, Patriotism, Will Power</span>
+                     <h5>**Start of Semestral &amp; Christmas Break 学期/圣诞假期开始</h5>
                   </div>
                </div>
             </div>
