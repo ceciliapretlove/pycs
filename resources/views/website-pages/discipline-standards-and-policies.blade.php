@@ -101,6 +101,7 @@
                      </div>
                   </div>
                </div>
+
                <div class="overview-box">
                   <h4>School ID</h4>
                   <div class="circle-list px-3">
@@ -113,6 +114,19 @@
                         </div>
                      </div>
                   </div>
+               </div>
+                               <div class="overview-box text-center">
+                  {{-- <h4>Prescribed School Uniform</h4> --}}
+                  <h5 class="mt-5">PRE-ELEMENTARY</h5>
+                  <img class="mb-5" src="assets/images/uniforms/pre-elementary.jpg">
+                  <h5 class="mt-5">LOWER GRADE SCHOOL</h5>
+                  <img class="mb-5" src="assets/images/uniforms/lower-grade.jpg">
+                  <h5 class="mt-5">UPPER GRADE SCHOOL TO JUNIOR HIGH SCHOOL</h5>
+                  <img class="mb-5" src="assets/images/uniforms/upper-grade.jpg">
+                  <h5 class="mt-5">SENIOR HIGH SCHOOL</h5>
+                  <img class="mb-5" src="assets/images/uniforms/senior-hs.jpg">
+                  <h5 class="mt-5">PE SCHOOL UNIFORM</h5>
+                  <img class="mb-5" src="assets/images/uniforms/pe-uniform.jpg">
                </div>
                <div class="overview-box">
                   <h4>Grooming, Hairstyle and Accessories</h4>
@@ -134,6 +148,16 @@
                         </div>
                      </div>
                   </div>
+               </div>
+                     <div class="overview-box text-center">
+               
+                   <h5 class="mb-5">Neat Hairstyle for Girls</h5>
+                  <img class="mb-5" src="assets/images/uniforms/neat-hairstyle-for-girls.jpg">
+                  <img class="mb-5" src="assets/images/uniforms/neat-hairstyle-for-girls1.jpg">
+           
+                   <h5 class="mb-5">Prescribed Hair Cut for Boys</h5>
+                  <img class="mb-5" src="assets/images/uniforms/prescribed-hair-cut-for-boys.jpg">
+                  <img class="mb-5" src="assets/images/uniforms/prescribed-hair-cut-for-boys1.jpg">
                </div>
                <div class="overview-box">
                   <h4>During General Assemblies</h4>
@@ -324,28 +348,7 @@
                      </div>
                   </div>
                </div>
-               <div class="overview-box">
-                  <h4>Lost and Found Items</h4>
-                  <div class="circle-list px-3">
-                     <div class="row">
-                        <div class="col-lg-12 col-md-12">
-                           <ul>
-                              <li><i class="ri-checkbox-circle-line"></i>All learners are expected to safe keep their own belongings / things.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Money and valuables are brought to the Admin office under the care of the Admin Staff.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Learners may claim their lost items from the Admin office on the same day or during health/lunch
-                                 breaks.
-                              </li>
-                              <li><i class="ri-checkbox-circle-line"></i>Inquiries about lost valuables may be made at the Admin office.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>To facilitate returning of the lost and found articles to owners, learners are encouraged to label all
-                                 their belongings properly.
-                              </li>
-                              <li><i class="ri-checkbox-circle-line"></i>Lost items are displayed and/or presented during morning assemblies.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Learner-owner may claim the item after signing in the <em> lost and Found </em> items log book.</li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+
             </div>
          </div>
          <div class="col-lg-4">

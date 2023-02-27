@@ -122,6 +122,17 @@ unless a written request for rescheduling with VALID reasons is presented to the
 before the scheduled test.
                   </p>
                </div>
+
+                              <div class="overview-box">
+                  <h4>Culminating Activities or Performance Tasks</h4>
+ <p>A <em>Culminating Activity</em> is a learning activity or assessment that asks learners to perform to demonstrate
+                  their knowledge, understanding, and proficiency. Culminating Activities yield a tangible product and /
+                  or performance that serve as evidence of learning. Culminating Activity calls for learners to apply their
+                  learning in context. To make learning meaningful and memorable, culminating activities should be
+                  interesting to the learners, age-appropriate, within their experience, and well connected to the important
+                  content, process, and skills enveloped in the curriculum.
+               </p>
+               </div>
             </div>
          </div>
          <div class="col-lg-4">

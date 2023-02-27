@@ -73,7 +73,7 @@
             </div>
          </div>
          <div class="desktop-nav">
-            <div class="container-fluid">
+            <div class="container">
                <nav class="navbar navbar-expand-md navbar-light">
                   <a class="navbar-brand" href="index-3.html">
                   <img src="assets/images/logo.png" class="main-logo" alt="logo">
@@ -94,27 +94,28 @@
                                  <a href="/about" class="nav-link">About PYCS</a>
                               </li>
                               <li class="nav-item">
-                                 <a href="/discipline-standards-and-policies" class="nav-link">Discipline Standards and Policies</a>
+                                 <a href="/discipline-standards-and-policies" class="nav-link">General Standards and Policies</a>
+                              </li>
+                                                            <li class="nav-item">
+                                 {{-- <a href="/offenses-and-sanctions" class="nav-link">Offenses and Sanctions</a> --}}
+                                 <a href="/offenses-and-sanctions" class="nav-link">Discipline Policies</a>
                               </li>
                               <li class="nav-item">
                                  <a href="/health-standards-and-policies" class="nav-link">Health Standards and Policies</a>
                               </li>
-              
-                              <li class="nav-item">
-                                 <a href="/offenses-and-sanctions" class="nav-link">Offenses and Sanctions</a>
-                              </li>
+
                               <li class="nav-item">
                                  <a href="/general-policies" class="nav-link">General Policies</a>
                               </li>
   
                            </ul>
                         </li>
-                                                <li class="nav-item">
+                     <li class="nav-item">
                            <a href="school-calendar" class="nav-link">
                            School Calendar
                            </a>
                         </li>
-                        <li class="nav-item">
+{{--                         <li class="nav-item">
                            <a href="/admission" class="nav-link dropdown-toggle">
                            Admission
                            </a>
@@ -124,6 +125,35 @@
                               </li>
                               <li class="nav-item">
                                  <a href="admission" class="nav-link">Admission Requirements</a>
+                              </li>
+                           </ul>
+                        </li> --}}
+
+                        <li class="nav-item">
+                           <a href="/admission" class="nav-link dropdown-toggle">
+                           Full Operation
+                           </a>
+                           <ul class="dropdown-menu">
+                              <li class="nav-item">
+                                 <a href="class-periods-and-learning-cycle" class="nav-link">Class Periods and Learning Cycle</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a href="enrollment-of-learners" class="nav-link">Enrollment of Learners</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a href="admission-requirements" class="nav-link">Admission Requirements</a>
+                              </li>
+
+                              <li class="nav-item">
+                                 <a href="admission-procedure" class="nav-link">Admission Procedure</a>
+                              </li>
+
+                              <li class="nav-item">
+                                 <a href="policies-for-early-registration" class="nav-link">Policies for Early Registration</a>
+                              </li>
+
+                              <li class="nav-item">
+                                 <a href="policy-on-withholding-of-credentials" class="nav-link">Policy on Withholding of Credentials</a>
                               </li>
                            </ul>
                         </li>
@@ -155,10 +185,13 @@
                                  <a href="/special-program" class="nav-link">Special Program</a>
                               </li>
                               <li class="nav-item">
-                                 <a href="/academic-standard" class="nav-link">Academic Standards</a>
+                                 <a href="/academic-standard" class="nav-link">Academic Policy</a>
                               </li>
                               <li class="nav-item">
-                                 <a href="/culminating-activities" class="nav-link">Culminating Activities</a>
+                                 <a href="/grading-system" class="nav-link">Grading System and Grade Description </a>
+                              </li>
+                              <li class="nav-item">
+                                 <a href="/promotion-and-retention" class="nav-link">Promotion and Retention </a>
                               </li>
                               <li class="nav-item">
                                  <a href="/school-programs" class="nav-link">School Programs</a>
@@ -168,6 +201,9 @@
                               </li>
                               <li class="nav-item">
                                  <a href="/school-year-end-activities" class="nav-link">School Year-End Activities</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a href="/others" class="nav-link">Others</a>
                               </li>
                            </ul>
                         </li>
@@ -180,95 +216,6 @@
                      </ul>
                   </div>
                </nav>
-            </div>
-         </div>
-         <div class="others-option-for-responsive">
-            <div class="container">
-               <div class="dot-menu">
-                  <div class="inner">
-                     <div class="icon">
-                        <i class="ri-menu-3-fill" data-bs-toggle="modal" data-bs-target="#sidebarModal"></i>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div class="sidebarModal modal right fade" id="sidebarModal" tabindex="-1" role="dialog">
-         <div class="modal-dialog" role="document">
-            <div class="modal-content">
-               <button type="button" class="close" data-bs-dismiss="modal"><i class="ri-close-line"></i></button>
-               <div class="modal-body">
-                  <a href="index.html">
-                  <img src="assets/images/logo.png" class="main-logo" alt="logo">
-                  <img src="assets/images/white-logo.png" class="white-logo" alt="logo">
-                  </a>
-                  <div class="sidebar-content">
-                     <h3>About Us</h3>
-                     <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                     <div class="sidebar-btn">
-                        <a href="contact.html" class="default-btn">Let’s Talk</a>
-                     </div>
-                  </div>
-                  <div class="sidebar-contact-info">
-                     <h3>Contact Information</h3>
-                     <ul class="info-list">
-                        <li><i class="ri-phone-fill"></i> <a href="tel:9901234567">+990-123-4567</a></li>
-                        <li><i class="ri-mail-line"></i><a href="mailto:hello@sanu.com">hello@sanu.com</a></li>
-                        <li><i class="ri-map-pin-line"></i> 413 North Las Vegas, NV 89032</li>
-                     </ul>
-                  </div>
-                  <ul class="sidebar-social-list">
-                     <li>
-                        <a href="https://www.facebook.com" target="_blank"><i class="flaticon-facebook"></i></a>
-                     </li>
-                     <li>
-                        <a href="https://www.twitter.com" target="_blank"><i class="flaticon-twitter"></i></a>
-                     </li>
-                     <li>
-                        <a href="https://linkedin.com/?lang=en" target="_blank"><i class="flaticon-linkedin"></i></a>
-                     </li>
-                     <li>
-                        <a href="https://instagram.com/?lang=en" target="_blank"><i class="flaticon-instagram"></i></a>
-                     </li>
-                  </ul>
-                  <div class="contact-form">
-                     <h3>Ready to Get Started?</h3>
-                     <form id="contactForm" novalidate="true">
-                        <div class="row">
-                           <div class="col-lg-12 col-md-6">
-                              <div class="form-group">
-                                 <input type="text" name="name" class="form-control" required="" data-error="Please enter your name" placeholder="Your name">
-                                 <div class="help-block with-errors"></div>
-                              </div>
-                           </div>
-                           <div class="col-lg-12 col-md-6">
-                              <div class="form-group">
-                                 <input type="email" name="email" class="form-control" required="" data-error="Please enter your email" placeholder="Your email address">
-                                 <div class="help-block with-errors"></div>
-                              </div>
-                           </div>
-                           <div class="col-lg-12 col-md-12">
-                              <div class="form-group">
-                                 <input type="text" name="phone_number" class="form-control" required="" data-error="Please enter your phone number" placeholder="Your phone number">
-                                 <div class="help-block with-errors"></div>
-                              </div>
-                           </div>
-                           <div class="col-lg-12 col-md-12">
-                              <div class="form-group">
-                                 <textarea name="message" class="form-control" cols="30" rows="6" required="" data-error="Please enter your message" placeholder="Write your message..."></textarea>
-                                 <div class="help-block with-errors"></div>
-                              </div>
-                           </div>
-                           <div class="col-lg-12 col-md-12">
-                              <button type="submit" class="default-btn" style="pointer-events: all; cursor: pointer;">Send Message<span></span></button>
-                              <div id="msgSubmit" class="h3 text-center hidden"></div>
-                              <div class="clearfix"></div>
-                           </div>
-                        </div>
-                     </form>
-                  </div>
-               </div>
             </div>
          </div>
       </div>
@@ -373,10 +320,10 @@
             </div>
          </div>
       </div>
-      <div class="go-top">
+{{--       <div class="go-top">
          <i class="ri-arrow-up-s-line"></i>
          <i class="ri-arrow-up-s-line"></i>
-      </div>
+      </div> --}}
       <script src="./assets/js/jquery.min.js"></script>
       <script src="./assets/js/bootstrap.bundle.min.js"></script>
       <script src="./assets/js/jquery.meanmenu.js"></script>

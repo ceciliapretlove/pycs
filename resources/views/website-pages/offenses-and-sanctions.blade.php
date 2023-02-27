@@ -3,7 +3,7 @@
 <div class="page-banner-area bg-2">
    <div class="container">
       <div class="page-banner-content">
-         <h1>Offenses and Sanctions</h1>
+         <h1>Discipline Policies</h1>
       </div>
    </div>
 </div>
@@ -41,7 +41,7 @@
                   </div>
                </div>
                <div class="overview-box">
-                  <h4 class="mb-4">Offenses That Call for Probation</h4>
+                  <h4 class="mb-4">Offenses that Call for Probation</h4>
                   <p>Probation is a period of supervision over a learner offender. A learner offender on probation is ordered
                      to follow certain conditions set forth by the POD officer and/or the Department Coordinator, often under
                      the supervision of the POD officer or assigned personnel. During this testing period, a learner offender
@@ -69,7 +69,7 @@
                   </p>
                </div>
                <div class="overview-box">
-                  <h4 class="mb-4">Offenses That Call for Detention</h4>
+                  <h4 class="mb-4">Offenses that Call for Detention</h4>
                   <p>Detention requires the learners to go to a designated area of the school during specified period of time
                      on a school day to do community acts of service. Such acts shall be determined and deliberated by the
                      Discipline Committee appropriate to the age and condition of the learner offender.
@@ -96,7 +96,7 @@
                   </div>
                </div>
                <div class="overview-box">
-                  <h4 class="mb-4">Offenses That Call for Suspension</h4>
+                  <h4 class="mb-4">Offenses that Call for Suspension</h4>
                   <p>Suspension or temporary exclusion is mandatory leave assigned to a learner offender as a form of
                      disciplinary measure which can last from days to a few weeks depending on the gravity of the offense/s
                      committed. A learner offender is not allowed to attend regular class hours and enter the premises of the

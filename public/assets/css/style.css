@@ -277,11 +277,11 @@ textarea{
     visibility:hidden;
     border-radius:0;
     display:block;
-    width:250px;
+    width:300px;
     border:none;
     z-index:99;
     opacity:0;
-    top:80px;
+    top:70px;
     left:0;
     padding:0
 }
@@ -315,9 +315,10 @@ textarea{
     color:#da251c
 }
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu{
-    right:250px;
-    left:auto;
-    top:0;
+    right: 300px;
+    left: auto;
+    margin-top: 0px;
+    width: 250px;
     opacity:0;
     visibility:hidden
 }
@@ -463,7 +464,7 @@ textarea{
 .desktop-nav .navbar .navbar-nav .nav-item:hover .dropdown-menu{
     top:100%;
     opacity:1;
-    margin-top:36px;
+    margin-top:35px;
     -webkit-transform:translateY(1);
     transform:translateY(1);
     visibility:visible

@@ -35,7 +35,12 @@ Route::get('/general-policies', [WebsiteController::class, 'generalPolicies']);
 // Admission
 Route::get('/enrollment', [WebsiteController::class, 'enrollment']);
 Route::get('/admission', [WebsiteController::class, 'admission']);
-
+Route::get('/class-periods-and-learning-cycle', [WebsiteController::class, 'classPeriodsAndLearningCycle']);
+Route::get('/enrollment-of-learners', [WebsiteController::class, 'enrollmentOfLearners']);
+Route::get('/admission-requirements', [WebsiteController::class, 'admissionRequirements']);
+Route::get('/admission-procedure', [WebsiteController::class, 'admissionProcedure']);
+Route::get('/policies-for-early-registration', [WebsiteController::class, 'policiesForEarlyRegistration']);
+Route::get('/policy-on-withholding-of-credentials', [WebsiteController::class, 'policyOnWithholdingOfCredentials']);
 
 Route::get('/school-calendar', [WebsiteController::class, 'schoolcalendar']);
 Route::get('/galleries', [WebsiteController::class, 'galleries']);
@@ -51,8 +56,9 @@ Route::get('/academic-standard', [WebsiteController::class, 'academicstandard'])
 Route::get('/school-year-end-activities', [WebsiteController::class, 'schoolyearendactivities']);
 Route::get('/school-programs', [WebsiteController::class, 'schoolprograms']);
 Route::get('/clubs-organization', [WebsiteController::class, 'clubsorganization']);
-Route::get('/culminating-activities', [WebsiteController::class, 'culminatingactivities']);
-
+Route::get('/grading-system', [WebsiteController::class, 'gradingsystem']);
+Route::get('/promotion-and-retention', [WebsiteController::class, 'promotionandretention']);
+Route::get('/others', [WebsiteController::class, 'others']);
 
 Route::group( ['middleware' => 'auth' ], function()
 {

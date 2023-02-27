@@ -10,7 +10,7 @@
 <div class="graduate-admission pt-100 pb-70">
    <div class="container">
       <div class="row">
-         <div class="col-lg-8">
+         <div class="col-lg-12">
             <div class="overview">
                <p>Clubs and activities are a great way for learners to find where they belong in their school social
                   community and to find their niche among their schoolmates with similar interests and goals. In addition,
@@ -168,21 +168,55 @@
                      light mode where the learners and the School Principal are like having “chit chat”.
                   </p>
                </div>
-            </div>
-         </div>
-         <div class="col-lg-4">
-            <div class="additional-information">
-               <h3>Additional Information</h3>
-               <div class="list">
-                  <ul>
-                     <li><a href="#learning-cycle">Pre-Elementary</a></li>
-                     <li><a href="#enrollment-class-size">Grade School</a></li>
-                     <li><a href="#enrollment-learners">Junior High School</a></li>
-                     <li><a href="#enrollment-learners">Senior High School</a></li>
-                  </ul>
+                              <div class="overview-box">
+                  <h4>Student Council for Student Affairs (SCSA)</h4>
+                  <p>This organization is the umbrella of all other organizations of PYCS, it is conducted by learners and
+                     supervised by teachers. In addition to planning events that contribute to school spirit and community
+                     welfare, the SCSA is the voice of the learners. They help share learner ideas, interests, and concerns
+                     with the school wide community.
+                  </p>
+                  <p>SCSA officers are generally responsible for organizing activities like intramural, community service,
+                     and community outreach. Election of officers usually happens before the end of the school year.
+                  </p>
+               </div>
+               <div class="overview-box">
+                  <h4>School Paper (The Gazette)</h4>
+                  <p>The <em>Gazette</em> is the official school paper of PYCS, it is news-type written and published by the JSHS
+                     learners in the school. As an educational institution, it is the school’s responsibility to provide learners a
+                     healthy and quality environment that helps to develop their core skills. An internal newspaper is one of
+                     the mediums that PYCS provided to learners to ensure highest standards of education, both academic
+                     and extracurricular. <em>The Messenger</em> is a school paper in the grade school department. School paper is a
+                     vital school activity for the learner, and with the following objectives:
+                  </p>
+                  <div class="number-list px-3">
+                     <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                           <ul>
+                              <li>To <em>Improve the Creative Skills of the Learners </em>– having a school paper empowers learners to
+                                 showcase their writing skills and voice their opinions. Since young minds are bubbling with
+                                 fresh ideas, a school paper is the best way to capture these in a creative manner.
+                              </li>
+                              <li>To <em>Build the Confidence of the Learners</em> – when learners get a platform to articulate their
+                                 thoughts without any reservation, it helps to build their confidence. Their participation in
+                                 school paper makes them feel special, and it adds great enthusiastic in them to present their
+                                 skills.
+                              </li>
+                              <li>To <em>Improve Communication</em> – a learner-run school paper is a great way to build
+                                 communication between all groups in the school. They come together to interact, to
+                                 brainstorm, and to ideate, and they help improve association among each other.
+                              </li>
+                              <li>To <em>Help Build Teamwork</em> – brainstorming and producing a school paper provide the learners
+                                 with valuable experience in collaboration and teamwork that can go a long way in their lives.
+                                 skills.
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
                </div>
             </div>
          </div>
+
       </div>
    </div>
 </div>

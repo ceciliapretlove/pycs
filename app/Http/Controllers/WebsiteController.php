@@ -39,16 +39,40 @@ class WebsiteController extends Controller
     }
 
 // Admission
-    
-    public function enrollment()
+        public function enrollment()
     {
         return view('website-pages.enrollment');
     }
 
-    public function admission()
+    public function classPeriodsAndLearningCycle()
     {
-        return view('website-pages.admission');
+        return view('website-pages.class-periods-and-learning-cycle');
     }
+    public function enrollmentOfLearners()
+    {
+        return view('website-pages.enrollment-of-learners');
+    }
+    public function admissionRequirements()
+    {
+        return view('website-pages.admission-requirements');
+    }
+
+    public function admissionProcedure()
+    {
+        return view('website-pages.admission-procedure');
+    }
+
+    public function policiesForEarlyRegistration()
+    {
+        return view('website-pages.policies-for-early-registration');
+    }
+
+    public function policyOnWithholdingOfCredentials()
+    {
+        return view('website-pages.policy-on-withholding-of-credentials');
+    }
+
+//School Calendar
     public function schoolcalendar()
     {
         return view('website-pages.school-calendar');
@@ -106,8 +130,18 @@ class WebsiteController extends Controller
     {
         return view('website-pages.clubs-organization');
     }
-        public function culminatingactivities()
+        public function gradingsystem()
     {
-        return view('website-pages.culminating-activities');
+        return view('website-pages.grading-system');
+    }
+
+        public function promotionandretention()
+    {
+        return view('website-pages.promotion-and-retention');
+    }
+
+        public function others()
+    {
+        return view('website-pages.others');
     }
 }
