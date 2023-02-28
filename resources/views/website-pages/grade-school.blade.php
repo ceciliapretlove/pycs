@@ -3,7 +3,7 @@
 <div class="page-banner-area bg-2">
    <div class="container">
       <div class="page-banner-content">
-         <h1>Grade school</h1>
+         <h1>Grade School</h1>
       </div>
    </div>
 </div>
@@ -113,7 +113,7 @@
                   </p>
                </div>
                   <div class="overview-box">
-                     <h4>Science And Health</h4>
+                     <h4>Science and Health</h4>
                      <p>This program emphasizes both the conceptual structures and processes with the inculcation of scientific
                         attitudes and values. Science and Health instruction provides for meaningful experiences through
                         guided discovery approach and hands-on learning activities like experimenting, reporting, doing simple
@@ -131,7 +131,7 @@
                         </p>
                      </div>
                      <div class="overview-box">
-                        <h4>Civics And Culture</h4>
+                        <h4>Civics and Culture</h4>
                         <p>The Civics and Culture program develops young learners who will manifest in their words, actions, and
                            ideals of patriotism, good citizenship, active participation in the social, political, and economic development
                            of the country, cherish and preserve the national, Asian, and global heritage, and possess the courage and
@@ -150,7 +150,7 @@
                         <p>The Philippine Yuh Chiau School Arts program merges the creative and aesthetic aspects of the three (3)
                            H’s. The Head by which learners’ keen sense of awareness and appreciation of beauty are developed. The
                            Hand which is manifested in the creation of functional and creative words of art which becomes the venue
-                           for expressing the learners’ ideas and opinions other than words. And the Heart for it encourages personal
+                           for expressing the learners’ ideas and opinions other than words. and the Heart for it encourages personal
                            expression.
                         </p>
                      </div>

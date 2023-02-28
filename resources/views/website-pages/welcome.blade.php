@@ -8,14 +8,14 @@
                   <div class="slider-item" style="background-image: url('{{ asset('assets/images/banner/banner-1.jpg') }}')" >
                      <div class="container-fluid">
                         <div class="slider-content">
-                           <h1>Your Future Start With PYCS</h1>
-                           <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
-                           <a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
+                           <h1>Experience the Culture of Excellence</h1>
+                           <p>Tranforming lives through Education with Quality Assurance</p>
+                           {{-- <a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a> --}}
                         </div>
                      </div>
                   </div>
                </div>
-               <div class="owl-item cloned" style="width: 1903px;">
+{{--                <div class="owl-item cloned" style="width: 1903px;">
                   <div class="slider-item" style="background-image: url('{{ asset('assets/images/banner/banner-2.jpg') }}')" >
                      <div class="container-fluid">
                         <div class="slider-content">
@@ -26,7 +26,7 @@
                      </div>
                   </div>
                  
-               </div>
+               </div> --}}
             </div>
             <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="ri-arrow-left-line"></i></button><button type="button" role="presentation" class="owl-next"><i class="ri-arrow-right-line"></i></button></div>
             <div class="owl-dots disabled"></div>

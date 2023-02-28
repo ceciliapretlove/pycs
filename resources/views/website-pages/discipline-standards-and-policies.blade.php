@@ -10,7 +10,7 @@
 <div class="graduate-admission pt-100 pb-70">
    <div class="container">
       <div class="row">
-         <div class="col-lg-8">
+         <div class="col-lg-12">
             <div class="overview">
                <p>Discipline involves the systematic training of the mental, physical, and moral powers by instruction and
                   exercise. The end result of this process is orderly conduct flowing form internal self-control.
@@ -160,7 +160,7 @@
                   <img class="mb-5" src="assets/images/uniforms/prescribed-hair-cut-for-boys1.jpg">
                </div>
                <div class="overview-box">
-                  <h4>Expected behavior during General Assemblies</h4>
+                  <h4>Expected Behavior during General Assemblies</h4>
                   <p>Learners should observe proper behavior during assemblies. All learners stand at attention, join in the
                      community prayer, sing the national anthem, recite the national pledge, and sing the school hymn. General
                      morning assemblies shall be attended by all learners and personnel.
@@ -242,7 +242,7 @@
                   </div>
                </div>
                <div class="overview-box">
-                  <h4>Expected behavior during Health and Lunch Breaks</h4>
+                  <h4>Expected Behavior during Health and Lunch Breaks</h4>
                   <div class="circle-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -265,7 +265,7 @@
                   </div>
                </div>
                <div class="overview-box">
-                  <h4>Expected behavior in the Lobbies and Hallways</h4>
+                  <h4>Expected Behavior in the Lobbies and Hallways</h4>
                   <div class="circle-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -283,7 +283,7 @@
                   </div>
                </div>
                <div class="overview-box">
-                  <h4>Expected behavior during Morning and Afternoon Dismissal</h4>
+                  <h4>Expected Behavior during Morning and Afternoon Dismissal</h4>
                   <div class="circle-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -306,7 +306,7 @@
                   </div>
                </div>
                <div class="overview-box">
-                  <h4>Expected behavior during Programs and Activities</h4>
+                  <h4>Expected Behavior during Programs and Activities</h4>
                   <div class="circle-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -326,7 +326,7 @@
                </div>
 
                <div class="overview-box">
-                  <h4>Expected behavior in the Campus and Offices</h4>
+                  <h4>Expected Behavior in the Campus and Offices</h4>
                   <div class="circle-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -352,19 +352,7 @@
 
             </div>
          </div>
-         <div class="col-lg-4">
-            <div class="additional-information">
-               <h3>Additional Information</h3>
-               <div class="list">
-                  <ul>
-                     <li><a href="#learning-cycle">Pre-Elementary</a></li>
-                     <li><a href="#enrollment-class-size">Grade School</a></li>
-                     <li><a href="#enrollment-learners">Junior High School</a></li>
-                     <li><a href="#enrollment-learners">Senior High School</a></li>
-                  </ul>
-               </div>
-            </div>
-         </div>
+
       </div>
    </div>
 </div>

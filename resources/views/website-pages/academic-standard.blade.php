@@ -29,7 +29,7 @@
                   </div>
                </div>
                <p>The performance of learners is evaluated regularly in order to assess the degree and quality of learning that
-                  has taken place, and it is done through Writing Assessment and Performance Tasks.
+                  has taken place, and it is done through writing assessment and performance tasks.
                </p>
                <p>Assessment shall be used primarily as a quality assurance tool to track learner progress in the attainment of
                   standards, promote self-reflection and personal accountability for one’s learning, and provide a basis for the
@@ -78,7 +78,7 @@
                   </p>
                </div>
                <div class="overview-box">
-                  <h4>Quarterly Examinations</h4>
+                  <h4>Quarterly Assesments</h4>
                   <p>Quarterly examinations are scheduled at the close of a quarter reflected in the school calendar and is
                      circularized at the onset of the school year. The test duration is one (1) hour per discipline.
                   </p>
@@ -89,7 +89,7 @@
                   </p>
                </div>
                <div class="overview-box">
-                  <h4>Request For Advanced Tests</h4>
+                  <h4>Request for Advanced Tests</h4>
                   <p>Advanced long tests or quarterly examination are subject to the approval of the School Principal and are
                      to be administered by the concerned Department Coordinator. A written notice from the learner’s parent
                      or guardian stating the reason for the request is a requirement.

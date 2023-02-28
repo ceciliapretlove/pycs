@@ -3,7 +3,7 @@
 <div class="page-banner-area bg-2">
    <div class="container">
       <div class="page-banner-content">
-         <h1>Policy on Withholding of Credentials</h1>
+         
       </div>
    </div>
 </div>

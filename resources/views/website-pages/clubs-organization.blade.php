@@ -17,17 +17,23 @@
                   school extra-curricular activities allow the learners to pursue their current interests and passions and
                   perhaps even find ones they did not know they had.
                </p>
-               <p>Clubs at Philippine Yuh Chiau School are categorized into three (3): <em>Subject-Area Clubs</em>, <em>Hobby Clubs</em>,
-                  and <em>Charity Clubs</em>. Each category has unique components to cater the diverse interests, if not all Yuh
+               <p>Clubs at Philippine Yuh Chiau School are categorized into three (3): <em>Umbrella Organizations</em>, <em>Academic Clubs</em>,
+                  and <em>Hobby/Interest Clubss</em>. Each category has unique components to cater the diverse interests, if not all Yuh
                   Chiauians, majority of them.
                </p>
                <div class="overview-box">
-                  <h4>Subject-area Clubs</h4>
+                  <h4>Academic Clubs</h4>
                   <p>These are clubs that focus on specific academic areas.
                   </p>
                </div>
+                              <div class="overview-box">
+                  <h4>*Robotics Club</h4>
+                  <p>Robotics is an interdisciplinary research area at the interface of computer science and engineering. It involves design, construction, operation, and use of robots. Its goal is to design intelligent machines that can help and assist humans in their day-to-day lives and keep everyone safe.</p>
+
+                  <p>PYCS; however, started allowing and supporting able Yuh Chiauians to join different Robotics-related competitions not only in the country but in other countries as well. This program is open to learners in the grade school to senior high school.</p>
+               </div>
                <div class="overview-box">
-                  <h4>*Mathletes Club</h4>
+                  <h4>*Math-Gen Club</h4>
                   <p>This club is conceived for learners whose interests are sparked by math
                      concepts and problem solving. Learners may not have all the knowledge that they need to be
                      competitive, and joining Mathletes is a great way for them to get ahead in their math classes and
@@ -68,13 +74,7 @@
                      hone their skills in preparation for college or university, and competitions too.
                   </p>
                </div>
-               <div class="overview-box">
-                  <h4>*Computer Science Club</h4>
-                  <p>This club is for learners who have high inclinations to computer
-                     science skills. It empowers learners with rigorous computer science activities which develop digital,
-                     problem solving, and programming skills.
-                  </p>
-               </div>
+
                <div class="overview-box">
                   <h4>Hobby / Interest Clubs</h4>
                   <p>These are clubs that focus on specific hobbies or interest of the Yuh Chiauians.
@@ -180,7 +180,7 @@
                   </p>
                </div>
                <div class="overview-box">
-                  <h4>School Paper (The Gazette)</h4>
+                  <h4>School Paper</h4>
                   <p>The <em>Gazette</em> is the official school paper of PYCS, it is news-type written and published by the JSHS
                      learners in the school. As an educational institution, it is the school’s responsibility to provide learners a
                      healthy and quality environment that helps to develop their core skills. An internal newspaper is one of

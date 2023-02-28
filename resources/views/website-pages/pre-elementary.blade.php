@@ -38,7 +38,7 @@
                   </p>
                </div>
                   <div class="overview-box">
-                  <h4> Reading / Language</h4>
+                  <h4> Reading (N1-K) / Language (N1-K) / Filipino (K)</h4>
                   <p>Pre-reading strategy is given emphasis to help very young learners of Philippine Yuh Chiau School to read
                      and use the language until they reach Kindergarten. Few examples of this strategy include: phonological
                      awareness<em> (ability to distinguish sounds from one another)</em>, letter recognition, listening skills, learning new
@@ -50,21 +50,21 @@
                   </p>
                </div>
                   <div class="overview-box">
-                  <h4> Science</h4>
+                  <h4> Science (K)</h4>
                   <p>This program helps the learners understand the various phenomena in their environment by learning through
                      discovery to develop their observation and logical skills. It also aims to promote the learners’ curiosity,
                      sensitivity, awareness, and appreciation of the things around them.
                   </p>
                </div>
                   <div class="overview-box">
-                  <h4> Writing</h4>
+                  <h4> Writing (N1-N2)</h4>
                   <p>Early writing practice builds skills on and off the page. Writing is an essential skill which learners can
                      benefit from for the rest of their lives. Writing in the Pre-Elementary is introduced and practiced
                      through age-appropriate engaging activities.
                   </p>
                </div>
                   <div class="overview-box">
-                  <h4>  Physical Education</h4>
+                  <h4>Playtime (N1-K)</h4>
                   <p>The main aims of Physical Education in the Pre-Elementary education are:</p>
                   <ul>
                      <li style="list-style-type: lower-latin;">to provide learners with opportunities to develop their psychomotor, cognitive, and social
@@ -81,14 +81,18 @@
                   </p>
                </div>
                   <div class="overview-box">
-                  <h4>Arts</h4>
+                  <h4>Arts (N1-K)</h4>
                   <p>Arts does matter in the classroom, delivering a wide range of advantages for learners. This program
                      features activities that support learners incorporating digital tools, foster critical thinking, seeing the
                      world in new ways, and provide access to creative ways of knowing things.
                   </p>
                </div>
+                                 <div class="overview-box">
+                  <h4>Self Help (N1 TO K)</h4>
+
+               </div>
                   <div class="overview-box">
-                  <h4>Chinese Language Arts</h4>
+                  <h4>Chinese Language Arts (N1-K)</h4>
                   <p> This program exposes the learners to the Chinese culture through various forms of literature. It aims to
                      build the learners’ vocabulary as they are introduced in the listening, picture reading, and trace-writing
                      activities.
@@ -106,16 +110,8 @@
                         <div class="col-lg-4 col-md-4">
                            <ul>
                            <li><i class="ri-checkbox-circle-line"></i>Library Period</li>
-                           <li><i class="ri-checkbox-circle-line"></i>Play Time</li>
-                        </div>
-                        <div class="col-lg-4 col-md-4">
-                           <ul>
-                           <li><i class="ri-checkbox-circle-line"></i>Circle Time</li>
+                           <li><i class="ri-checkbox-circle-line"></i>Community Time</li>
                            <li><i class="ri-checkbox-circle-line"></i>Outreach Program</li>
-                        </div>
-                        <div class="col-lg-4 col-md-4">
-                           <ul>
-                           <li><i class="ri-checkbox-circle-line"></i>Community Immersion</li>
                         </div>
                      </div>
                   </div>

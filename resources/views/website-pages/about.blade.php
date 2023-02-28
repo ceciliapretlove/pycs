@@ -236,11 +236,12 @@
                                     <li>Chua Ping Hong – (1974 – 1976)</li>
                                     <li>Nicolas Gabitan – (1976 – 1978)</li>
                                     <li>Ernesto Subia – (1978 – 1980)</li>
+                                    <li>Reynaldo Tan – (1980 – 1986)</li>
                                  </ul>
                               </div>
                               <div class="col-lg-6 col-md-6">
                                  <ul>
-                                    <li>Reynaldo Tan – (1980 – 1986)</li>
+                                    
                                     <li>Teofilo Uy – (1986 – 1988)</li>
                                     <li>Jacinto Tio – (1988 – 1992)</li>
                                     <li>Sergio Uy – (1992 – 1994)</li>
@@ -253,6 +254,7 @@
                                     <li>Richmond P. Subia – (2012 – 2014)</li>
                                     <li>Jacinto T. De Jesus – (2014 – 2018)</li>
                                     <li>Raymond P. Tan – (2018 - 2023)</li>
+                                     <li>Charlton L. Uy – (2023 - )</li>
                                  </ul>
                               </div>
                            </div>

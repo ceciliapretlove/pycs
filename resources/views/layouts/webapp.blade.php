@@ -145,7 +145,7 @@
                               </li>
 
                               <li class="nav-item">
-                                 <a href="admission-procedure" class="nav-link">Admission Procedure</a>
+                                 <a href="admission-procedure" class="nav-link">Admission Procedures</a>
                               </li>
 
                               <li class="nav-item">
@@ -182,7 +182,7 @@
                                  </ul>
                               </li>
                               <li class="nav-item">
-                                 <a href="/special-program" class="nav-link">Special Program</a>
+                                 <a href="/special-program" class="nav-link">Special Programs</a>
                               </li>
                               <li class="nav-item">
                                  <a href="/academic-standard" class="nav-link">Academic Policy</a>
@@ -225,59 +225,42 @@
             <div class="row">
                <div class="col-lg-4 col-sm-6">
                   <div class="footer-logo-area">
-                     <a href="index.html"><img src="assets/images/logo.png" alt="Image"></a>
-                     <
-                     <div class="contact-list">
-                        <ul>
-                           <li><a href="tel:+01987655567685">+63-9876-5556-7685
-                              </a>
-                           </li>
-                           <li><a href="mailto:admin@pycs.edu">admin@pycs.edu</a></li>
-                        </ul>
-                     </div>
+                     <a href="/"><img src="assets/images/pycs-footer-logo.png" alt="Image"></a>
+
                   </div>
                </div>
                <div class="col-lg-3 col-sm-6">
                   <div class="footer-widjet">
-                     <h3>Campus Life</h3>
+                     <h3>Contact Us</h3>
                      <div class="list">
                         <ul>
-                           <li><a href="campus-life.html">Accessibility</a></li>
-                           <li><a href="campus-life.html">Financial Aid</a></li>
-                           <li><a href="campus-life.html">Food Services</a></li>
-                           <li><a href="campus-life.html">Housing</a></li>
-                           <li><a href="campus-life.html">Information Technologies</a></li>
-                           <li><a href="campus-life.html">Student Life</a></li>
+                           <li>Globe : 0966-416-1972</li>
+                           <li>Smart : 0908-885-1783</li>
+                           <li>Landline : (078) 652-0839</li>
                         </ul>
                      </div>
                   </div>
+
+
                </div>
-               <div class="col-lg-3 col-sm-6">
-                  <div class="footer-widjet">
-                     <h3>Our Campus</h3>
-                     <div class="list">
-                        <ul>
-                           <li><a href="campus-life.html">Acedemic</a></li>
-                           <li><a href="campus-life.html">Planning &amp; Administration</a></li>
-                           <li><a href="campus-life.html">Campus Safety</a></li>
-                           <li><a href="campus-life.html">Office of the Chancellor</a></li>
-                           <li><a href="campus-life.html">Facility Services</a></li>
-                           <li><a href="campus-life.html">Human Resources</a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
+
                <div class="col-lg-2 col-sm-6">
                   <div class="footer-widjet">
-                     <h3>Academics</h3>
+                     <h3>Email</h3>
                      <div class="list">
                         <ul>
-                           <li><a href="academics.html">Canvas</a></li>
-                           <li><a href="academics.html">Catalyst</a></li>
-                           <li><a href="academics.html">Library</a></li>
-                           <li><a href="academics.html">Time Schedule</a></li>
-                           <li><a href="academics.html">Apply For Admissions</a></li>
-                           <li><a href="academics.html">Pay My Tuition</a></li>
+                           <li>pycs.65@gmail.com</li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+
+                              <div class="col-lg-2 col-sm-6">
+                  <div class="footer-widjet">
+                     <h3>Social Media</h3>
+                     <div class="list">
+                        <ul>
+                           <li>Facebook Page: <a href="https://web.facebook.com/transforminglivespycs">https://web.facebook.com/transforminglivespycs</a></li>
                         </ul>
                      </div>
                   </div>
@@ -297,7 +280,7 @@
                         <ul>
                            <li><span>Follow Us On</span></li>
                            <li>
-                              <a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>
+                              <a href="https://web.facebook.com/transforminglivespycs" target="_blank"><i class="ri-facebook-fill"></i></a>
                            </li>
                         </ul>
                      </div>

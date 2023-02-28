@@ -48,7 +48,7 @@
                   </p>
                </div>
                <div class="overview-box">
-                  <h4 class="mb-4">Social Hall and Mess Hall 3rd Floor</h4>
+                  <h4 class="mb-4">Social Hall and Mess Hall</h4>
                   <p>The PYCS social hall/school ground is basically for the learners’ learning activities purposes. School
                      activities programmed in the school calendar are held in the social hall.
                   </p>
@@ -127,7 +127,7 @@
                </div>
 
                              <div class="overview-box">
-                  <h4>Lost and Found Items</h4>
+                  <h4>Guidelines and Policies on Lost and Found Items</h4>
                   <div class="circle-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">

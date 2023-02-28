@@ -3,7 +3,7 @@
 <div class="page-banner-area bg-2">
    <div class="container">
       <div class="page-banner-content">
-         <h1>Special Program</h1>
+         <h1>Special Programs</h1>
       </div>
    </div>
 </div>
@@ -26,16 +26,15 @@
                   and Language. The program aims to focus on the learners from Grade School to Junior High School who
                   have the <strong>final rating of 95 and above</strong> in the specifically mentioned disciplines.
                </p>
-               <p>The Learners Are Given Time To Concentrate In Their Selected Discipline And Learn Different Topics Above
-                  Regular And These Are Prepared By The Program Moderators. This Program Aims To Intensify The Skills And
-                  Knowledge Already Acquired By The Learners, And To Intensively Prepare The Learners For Different
-                  Competitions Relating To Science, Mathematics, And Language.
+               <p>The learners are given time to concentrate in their selected discipline and learn different topics above
+                  Regular and these are prepared by the program moderators. This program aims to intensify the skills and
+                  Knowledge already acquired by the learners, and to intensively prepare the learners for different
+                  Competitions relating to science, mathematics, and language.
                </p>
             </div>
                             <div class="overview-box">
                   <h4>Description</h4>
-               <p>The <em>Intensive Program</em> is held every scheduled Club Time. Concerned learners in the Grade School are
-               allotted one (1) hour while learners in the Junior High School are allotted fifty (50) minutes per meeting.</p>
+               <p>The <em>Intensive Program</em> is held every scheduled Club Time.Concerned learners in the Grade School and Junior High School are allotted 60 minutes per meeting.</p>
 
                <p>The <em>Intensive Science Program</em> is open to learners in grades 5 – 10 who meet the final rating
                requirement. Learners are prepared intensively for any Science-related competitions like Science and

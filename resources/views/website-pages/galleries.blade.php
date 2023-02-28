@@ -8,7 +8,7 @@
          </div>
       </div>
 <!-- Images used to open the lightbox -->
-<div class="container">
+{{-- <div class="container">
    <div class="row gallery">
       <div class="col-md-4 p-0">
          <img src="assets/images/galleries/1.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow img-fluid">
@@ -43,10 +43,10 @@
             <div class="col-md-4 p-0">
          <img src="assets/images/galleries/11.jpg" onclick="openModal();currentSlide(11)" class="hover-shadow img-fluid">
       </div>
-   </div>
+   </div> --}}
 
    <!-- The Modal/Lightbox -->
-   <div id="myModal" class="modal">
+  {{--  <div id="myModal" class="modal">
       <span class="close cursor" onclick="closeModal()">&times;</span>
       <div class="modal-content">
 
@@ -143,6 +143,6 @@
             
             slides[slideIndex - 1].style.display = "block";
          }
-      </script>
+      </script> --}}
 
 @endsection 
