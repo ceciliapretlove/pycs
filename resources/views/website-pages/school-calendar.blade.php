@@ -13,6 +13,116 @@
    <div class="container">
       <div class="row justify-content-center">
          <div class="col-lg-9 col-md-6">
+
+                        <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/workshop.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4> February 27 - March 1</h4>
+                     <span class="theme"> <strong>Theme:</strong> Positivity, Unity, Generosity</span>
+                     <h5>*English &amp; Chinese Pre-Elementary &amp; Grade School Assessment Week</h5>
+                     <h5>*幼稚园及小学部中英文考核周</h5>
+                  </div>
+               </div>
+            </div>
+            <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/workshop.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4> March 2 - March 4</h4>
+                     <span class="theme"> <strong>Theme:</strong> Positivity, Unity, Generosity</span>
+                     <h5>*English &amp; Chinese JSHS Assessment Week </h5>
+                     <h5>初中及高中部中英文考核周</h5>
+                  </div>
+               </div>
+            </div>
+                        <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/workshop.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4> March 6</h4>
+                     <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <h5>*Start of 4 th Term - Synchronous &amp; Asynchronous LAs</h5>
+                     <h5>*第四学期开始 - 同步和非同步学习活动</h5>
+                  </div>
+               </div>
+            </div>
+                        <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/workshop.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4> April 6 - April 7</h4>
+                      <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <h5>**Holy Week</h5>
+                     <h5> ** 复活节</h5>
+                  </div>
+               </div>
+            </div>
+
+                                                <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/workshop.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>April 17</h4>
+                      <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <h5>*Grade 10 and Grade 12 Individual and Class Picture Taking</h5>
+                  </div>
+               </div>
+            </div>
+
+
+                                                <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/workshop.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>April 21</h4>
+                      <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <h5>*Kindergarten and Grade 6 Individual and Class Picture Taking</h5>
+                  </div>
+               </div>
+            </div>
+
+
+                                                <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/workshop.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4> April 24 - April 27 AM</h4>
+                      <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <h5>*English &amp; Chinese Assessment Week</h5>
+                     <h5>*幼稚园及小学部中英文考核周</h5>
+                  </div>
+               </div>
+            </div>
+
+            
+                                    <div class="single-events-card style-4">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/workshop.webp" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4> May 1</h4>
+                      <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <h5>**National Holiday: Labor Day</h5>
+                     <h5>全国假日。劳动节</h5>
+                  </div>
+               </div>
+            </div>
             <div class="single-events-card style-4">
                <div class="row">
                   <div class="events-image col-4">
