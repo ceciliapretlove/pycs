@@ -51,7 +51,7 @@
                   <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
-                  <a href="/culminating-activities"><img src="assets/images/galleries/consul4.jpg" alt="Image">
+                  <a href="/culminating-activities"><img src="assets/images/galleries/ca.jpg" alt="Image">
                                     <div class="date">
                   <span>SY 2021-2022</span>
 
