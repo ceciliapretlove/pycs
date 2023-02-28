@@ -10,7 +10,7 @@
 <div class="graduate-admission pt-100 pb-70">
    <div class="container">
       <div class="row">
-         <div class="col-lg-8">
+         <div class="col-lg-12">
             <div class="overview">
                <p>Teaching does not need to be limited to textbooks and whiteboards. There are lots of different school
                   programs for learners of all ages. From back-to-school programs to after-school programs, the school
@@ -173,19 +173,7 @@
 
             </div>
          </div>
-         <div class="col-lg-4">
-            <div class="additional-information">
-               <h3>Additional Information</h3>
-               <div class="list">
-                  <ul>
-                     <li><a href="#learning-cycle">Pre-Elementary</a></li>
-                     <li><a href="#enrollment-class-size">Grade School</a></li>
-                     <li><a href="#enrollment-learners">Junior High School</a></li>
-                     <li><a href="#enrollment-learners">Senior High School</a></li>
-                  </ul>
-               </div>
-            </div>
-         </div>
+
       </div>
    </div>
 </div>

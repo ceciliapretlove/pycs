@@ -144,4 +144,41 @@ class WebsiteController extends Controller
     {
         return view('website-pages.others');
     }
+
+    // Article 1
+        public function article1()
+    {
+        return view('website-pages.visitation-of-the-head-consul--mr-ren-faqiang');
+    }
+        public function article2()
+    {
+        return view('website-pages.chinese-new-year-celebration');
+    }
+
+
+        public function article3()
+    {
+        return view('website-pages.culminating-activities');
+    }
+
+            public function article4()
+    {
+        return view('website-pages.2022-christmas-party-program');
+    }
+            public function article5()
+    {
+        return view('website-pages.pycs-intramurals');
+    }
+            public function article6()
+    {
+        return view('website-pages.75th-founding-anniversary');
+    }
+
+                public function article7()
+    {
+        return view('website-pages.teachers-congress-and-team-building-activities');
+    }
+
+    
+
 }

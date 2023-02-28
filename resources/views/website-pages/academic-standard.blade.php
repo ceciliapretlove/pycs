@@ -3,14 +3,14 @@
 <div class="page-banner-area bg-2">
    <div class="container">
       <div class="page-banner-content">
-         <h1>Academic Standards</h1>
+         <h1>Academic Policy</h1>
       </div>
    </div>
 </div>
 <div class="graduate-admission pt-100 pb-70">
    <div class="container">
       <div class="row">
-         <div class="col-lg-8">
+         <div class="col-lg-12">
             <div class="overview">
                <p class="mb-0">Yuh Chiuaians are expected to excel both in discipline and academics; thus, it is important for them to be:</p>
                <div class="circle-list px-3">
@@ -135,19 +135,7 @@ before the scheduled test.
                </div>
             </div>
          </div>
-         <div class="col-lg-4">
-            <div class="additional-information">
-               <h3>Additional Information</h3>
-               <div class="list">
-                  <ul>
-                     <li><a href="#learning-cycle">Pre-Elementary</a></li>
-                     <li><a href="#enrollment-class-size">Grade School</a></li>
-                     <li><a href="#enrollment-learners">Junior High School</a></li>
-                     <li><a href="#enrollment-learners">Senior High School</a></li>
-                  </ul>
-               </div>
-            </div>
-         </div>
+
       </div>
    </div>
 </div>
