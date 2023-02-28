@@ -3,7 +3,7 @@
 <div class="page-banner-area bg-2">
    <div class="container">
       <div class="page-banner-content">
-         <h1>Discipline Standards and Policies</h1>
+         <h1>General Standards and Policies</h1>
       </div>
    </div>
 </div>
@@ -160,14 +160,14 @@
                   <img class="mb-5" src="assets/images/uniforms/prescribed-hair-cut-for-boys1.jpg">
                </div>
                <div class="overview-box">
-                  <h4>During General Assemblies</h4>
+                  <h4>Expected behavior during General Assemblies</h4>
                   <p>Learners should observe proper behavior during assemblies. All learners stand at attention, join in the
                      community prayer, sing the national anthem, recite the national pledge, and sing the school hymn. General
                      morning assemblies shall be attended by all learners and personnel.
                   </p>
                </div>
                <div class="overview-box">
-                  <h4>Attendance and Punctuality</h4>
+                  <h4>Policies and Guidelines on Attendance and Punctuality</h4>
                   <div class="circle-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -199,91 +199,8 @@
                      </div>
                   </div>
                </div>
-               <div class="overview-box">
-                  <h4>During Health and Lunch Breaks</h4>
-                  <div class="circle-list px-3">
-                     <div class="row">
-                        <div class="col-lg-12 col-md-12">
-                           <ul>
-                              <li><i class="ri-checkbox-circle-line"></i>All learners take their health and lunch breaks at their designated places only, such as canteen,
-                                 social hall, and 1 st or 2 nd floor of the Mess Hall.
-                              </li>
-                              <li><i class="ri-checkbox-circle-line"></i>Only very young learners with special permission may remain in the classroom with their respective
-                                 class advisers.
-                              </li>
-                              <li><i class="ri-checkbox-circle-line"></i>Learners are required to observe table manners whenever they eat.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>During breaks and at any time when learners are out of the classroom, they are expected to safe keep
-                                 their things inside their bags.
-                              </li>
-                              <li><i class="ri-checkbox-circle-line"></i>Valuables like wallets and/or money purse should be kept in learner’ pocket at all times.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Running in going down and up of the stairways are strictly prohibited.</li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="overview-box">
-                  <h4>In the Lobbies and Hallways</h4>
-                  <div class="circle-list px-3">
-                     <div class="row">
-                        <div class="col-lg-12 col-md-12">
-                           <ul>
-                              <li><i class="ri-checkbox-circle-line"></i>Loitering, loud chatting, and running along lobbies and hallways during academic hours are
-                                 prohibited.
-                              </li>
-                              <li><i class="ri-checkbox-circle-line"></i>Clustering along the stairways that blocks or obstructs the smooth passage is prohibited.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Learners are required to maintain proper conduct whenever they have activities held at the lobby
-                                 and/or hallway.
-                              </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="overview-box">
-                  <h4>During Morning and Afternoon Dismissal</h4>
-                  <div class="circle-list px-3">
-                     <div class="row">
-                        <div class="col-lg-12 col-md-12">
-                           <ul>
-                              <li><i class="ri-checkbox-circle-line"></i>All classes promptly end their activities at dismissal time.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Learners line up and wait for their turn to go down with the last period teacher supervising them.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>In the afternoon, learners keep their things in their proper places and leave the classroom cleaned,
-                                 whiteboard erased, lights, fans, and air-conditioned unit are switched off, faucets off, and chairs
-                                 arranged.
-                              </li>
-                              <li><i class="ri-checkbox-circle-line"></i>The elected class chairman checks that no learner stays in the classroom, Science/Speech/Computer
-                                 laboratory after dismissal time.
-                              </li>
-                              <li><i class="ri-checkbox-circle-line"></i>Learners who are still in school long after the dismissal time are required not to leave the PYCS
-                                 campus until their parent or guardian fetches them.
-                              </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="overview-box">
-                  <h4>During Programs and Activities</h4>
-                  <div class="circle-list px-3">
-                     <div class="row">
-                        <div class="col-lg-12 col-md-12">
-                           <ul>
-                              <li><i class="ri-checkbox-circle-line"></i>Learners are to remain with their respective class advisers in the place assigned to them.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Learners are expected to observe proper conduct during programs and/or activities.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Applauding boisterously is strictly prohibited.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Learners observe order and silence when entering or leaving assembly areas.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Learners may leave the assembly area only after the official closing of the program.</li>
-                              <li><i class="ri-checkbox-circle-line"></i>Only very young learners with special permission may leave the assembly area with their respective
-                                 class advisers.
-                              </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="overview-box">
-                  <h4>Electronic Devices</h4>
+                              <div class="overview-box">
+                  <h4>Policies and Guidelines on Electronic Devices</h4>
                   <div class="circle-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
@@ -325,7 +242,91 @@
                   </div>
                </div>
                <div class="overview-box">
-                  <h4>In the Campus and Offices</h4>
+                  <h4>Expected behavior during Health and Lunch Breaks</h4>
+                  <div class="circle-list px-3">
+                     <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                           <ul>
+                              <li><i class="ri-checkbox-circle-line"></i>All learners take their health and lunch breaks at their designated places only, such as canteen,
+                                 social hall, and 1 st or 2 nd floor of the Mess Hall.
+                              </li>
+                              <li><i class="ri-checkbox-circle-line"></i>Only very young learners with special permission may remain in the classroom with their respective
+                                 class advisers.
+                              </li>
+                              <li><i class="ri-checkbox-circle-line"></i>Learners are required to observe table manners whenever they eat.</li>
+                              <li><i class="ri-checkbox-circle-line"></i>During breaks and at any time when learners are out of the classroom, they are expected to safe keep
+                                 their things inside their bags.
+                              </li>
+                              <li><i class="ri-checkbox-circle-line"></i>Valuables like wallets and/or money purse should be kept in learner’ pocket at all times.</li>
+                              <li><i class="ri-checkbox-circle-line"></i>Running in going down and up of the stairways are strictly prohibited.</li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="overview-box">
+                  <h4>Expected behavior in the Lobbies and Hallways</h4>
+                  <div class="circle-list px-3">
+                     <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                           <ul>
+                              <li><i class="ri-checkbox-circle-line"></i>Loitering, loud chatting, and running along lobbies and hallways during academic hours are
+                                 prohibited.
+                              </li>
+                              <li><i class="ri-checkbox-circle-line"></i>Clustering along the stairways that blocks or obstructs the smooth passage is prohibited.</li>
+                              <li><i class="ri-checkbox-circle-line"></i>Learners are required to maintain proper conduct whenever they have activities held at the lobby
+                                 and/or hallway.
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="overview-box">
+                  <h4>Expected behavior during Morning and Afternoon Dismissal</h4>
+                  <div class="circle-list px-3">
+                     <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                           <ul>
+                              <li><i class="ri-checkbox-circle-line"></i>All classes promptly end their activities at dismissal time.</li>
+                              <li><i class="ri-checkbox-circle-line"></i>Learners line up and wait for their turn to go down with the last period teacher supervising them.</li>
+                              <li><i class="ri-checkbox-circle-line"></i>In the afternoon, learners keep their things in their proper places and leave the classroom cleaned,
+                                 whiteboard erased, lights, fans, and air-conditioned unit are switched off, faucets off, and chairs
+                                 arranged.
+                              </li>
+                              <li><i class="ri-checkbox-circle-line"></i>The elected class chairman checks that no learner stays in the classroom, Science/Speech/Computer
+                                 laboratory after dismissal time.
+                              </li>
+                              <li><i class="ri-checkbox-circle-line"></i>Learners who are still in school long after the dismissal time are required not to leave the PYCS
+                                 campus until their parent or guardian fetches them.
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="overview-box">
+                  <h4>Expected behavior during Programs and Activities</h4>
+                  <div class="circle-list px-3">
+                     <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                           <ul>
+                              <li><i class="ri-checkbox-circle-line"></i>Learners are to remain with their respective class advisers in the place assigned to them.</li>
+                              <li><i class="ri-checkbox-circle-line"></i>Learners are expected to observe proper conduct during programs and/or activities.</li>
+                              <li><i class="ri-checkbox-circle-line"></i>Applauding boisterously is strictly prohibited.</li>
+                              <li><i class="ri-checkbox-circle-line"></i>Learners observe order and silence when entering or leaving assembly areas.</li>
+                              <li><i class="ri-checkbox-circle-line"></i>Learners may leave the assembly area only after the official closing of the program.</li>
+                              <li><i class="ri-checkbox-circle-line"></i>Only very young learners with special permission may leave the assembly area with their respective
+                                 class advisers.
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="overview-box">
+                  <h4>Expected behavior in the Campus and Offices</h4>
                   <div class="circle-list px-3">
                      <div class="row">
                         <div class="col-lg-12 col-md-12">
