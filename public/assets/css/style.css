@@ -3274,6 +3274,10 @@ color:#da251c;
 .single-events-card:hover .events-content h3{
     color:#ffffff;
 }
+.single-events-card:hover .events-content{
+color:#FFFFFF;
+
+}
 
 .single-events-card:hover.style-4 .events-content {
     background-color: #29166f;

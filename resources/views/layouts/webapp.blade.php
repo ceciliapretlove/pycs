@@ -158,7 +158,7 @@
                            </ul>
                         </li>
                         <li class="nav-item">
-                           <a href="/admission" class="nav-link dropdown-toggle">
+                           <a href="" class="nav-link dropdown-toggle">
                            Academics
                            </a>
                            <ul class="dropdown-menu">

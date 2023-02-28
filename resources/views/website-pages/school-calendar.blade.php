@@ -14,7 +14,7 @@
       <div class="row justify-content-center">
          <div class="col-lg-9 col-md-6">
 
-                        <div class="single-events-card style-4">
+                        <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -27,7 +27,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -40,7 +40,7 @@
                   </div>
                </div>
             </div>
-                        <div class="single-events-card style-4">
+                        <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -53,7 +53,7 @@
                   </div>
                </div>
             </div>
-                        <div class="single-events-card style-4">
+                        <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -67,7 +67,7 @@
                </div>
             </div>
 
-                                                <div class="single-events-card style-4">
+                                                <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -81,7 +81,7 @@
             </div>
 
 
-                                                <div class="single-events-card style-4">
+                                                <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -95,7 +95,7 @@
             </div>
 
 
-                                                <div class="single-events-card style-4">
+                                                <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -110,7 +110,7 @@
             </div>
 
             
-                                    <div class="single-events-card style-4">
+                                    <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -123,7 +123,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -136,7 +136,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/independence.webp" >
@@ -149,7 +149,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/new_learners.jpeg" >
@@ -162,7 +162,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/school-starts.jpg" >
@@ -175,7 +175,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/assesment.jpg" >
@@ -188,7 +188,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/assesment.jpg" >
@@ -201,7 +201,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/heroesday.jpg" >
@@ -214,7 +214,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/long-weekend.jpg" >
@@ -226,7 +226,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -238,7 +238,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/workshop.webp" >
@@ -251,7 +251,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/school-starts.jpg" >
@@ -264,7 +264,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/sports.jpg" >
@@ -277,7 +277,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/independence.webp" >
@@ -289,7 +289,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/independence.webp" >
@@ -301,7 +301,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/classes.avif" >
@@ -314,7 +314,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/party.jpg" >
@@ -326,7 +326,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/independence.webp" >
@@ -338,7 +338,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/assesment.jpg" >
@@ -350,7 +350,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/checking.avif" >
@@ -362,7 +362,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/party.jpg" >
@@ -375,7 +375,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/party.jpg" >
@@ -387,7 +387,7 @@
                   </div>
                </div>
             </div>
-            <div class="single-events-card style-4">
+            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/holiday.avif" >
