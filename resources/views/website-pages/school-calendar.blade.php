@@ -17,7 +17,7 @@
                         <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/workshop.webp" >
+                     <img src="assets/images/events/assesment.jpg" >
                   </div>
                   <div class="events-content col-8">
                      <h4> February 27 - March 1</h4>
@@ -30,7 +30,7 @@
             <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/workshop.webp" >
+                     <img src="assets/images/events/assesment.jpg" >
                   </div>
                   <div class="events-content col-8">
                      <h4> March 2 - March 4</h4>
@@ -48,7 +48,7 @@
                   <div class="events-content col-8">
                      <h4> March 6</h4>
                      <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
-                     <h5>*Start of 4 th Term - Synchronous &amp; Asynchronous LAs</h5>
+                     <h5>*Start of 4th Term - Synchronous &amp; Asynchronous LAs</h5>
                      <h5>*第四学期开始 - 同步和非同步学习活动</h5>
                   </div>
                </div>
@@ -56,7 +56,7 @@
                         <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/workshop.webp" >
+                     <img src="assets/images/events/holy-week-with-crosses.avif" >
                   </div>
                   <div class="events-content col-8">
                      <h4> April 6 - April 7</h4>
@@ -98,7 +98,7 @@
                                                 <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/workshop.webp" >
+                      <img src="assets/images/events/assesment.jpg" >
                   </div>
                   <div class="events-content col-8">
                      <h4> April 24 - April 27 AM</h4>
@@ -126,7 +126,7 @@
             <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/workshop.webp" >
+                     <img src="assets/images/galleries/tba30.jpg" >
                   </div>
                   <div class="events-content col-8">
                      <h4> June 6 - July 22</h4>
