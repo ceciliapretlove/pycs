@@ -59,7 +59,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4> April 6 - April 7</h4>
-                     <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <span class="theme"> <strong>Theme:</strong> Humility, Honesty, Diligence</span>
                      <h5>**Holy Week</h5>
                      <h5> ** 复活节</h5>
                   </div>
@@ -72,7 +72,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4>April 17</h4>
-                     <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <span class="theme"> <strong>Theme:</strong> Humility, Honesty, Diligence</span>
                      <h5>*Grade 10 and Grade 12 Individual and Class Picture Taking</h5>
                   </div>
                </div>
@@ -84,7 +84,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4>April 21</h4>
-                     <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <span class="theme"> <strong>Theme:</strong> Humility, Honesty, Diligence</span>
                      <h5>*Kindergarten and Grade 6 Individual and Class Picture Taking</h5>
                   </div>
                </div>
@@ -96,7 +96,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4> April 24 - April 27 AM</h4>
-                     <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <span class="theme"> <strong>Theme:</strong> Humility, Honesty, Diligence</span>
                      <h5>*English &amp; Chinese Assessment Week</h5>
                      <h5>*幼稚园及小学部中英文考核周</h5>
                   </div>
@@ -109,7 +109,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4> May 1</h4>
-                     <span class="theme"> <strong>Theme:</strong> Humility, Cheerfulness, Honesty, Diligence</span>
+                     <span class="theme"> <strong>Theme:</strong> Humility, Honesty, Diligence</span>
                      <h5>**National Holiday: Labor Day</h5>
                      <h5>全国假日。劳动节</h5>
                   </div>
@@ -123,7 +123,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4> May 22 8AM</h4>
-                     <span class="theme"> <strong>Theme:</strong>Integrity, Fairness, Creativity, Love, Joy &amp; Happiness, Gratitude</span>
+                     <span class="theme"> <strong>Theme:</strong> Love, Joy &amp; Happiness, Gratitude</span>
                      <h5>*Pre-Elementary Moving-Up &amp; Recognition Program</h5>
                      <h5>*幼稚园结业和颁发典礼</h5>
                   </div>
@@ -138,7 +138,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4> May 22 6PM</h4>
-                     <span class="theme"> <strong>Theme:</strong>Integrity, Fairness, Creativity, Love, Joy &amp; Happiness, Gratitude</span>
+                     <span class="theme"> <strong>Theme:</strong> Love, Joy &amp; Happiness, Gratitude</span>
                      <h5>*Grade School Recognition Program </h5>
                      <h5>小学部颁发典礼</h5>
                   </div>
@@ -153,7 +153,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4> May 23 8AM</h4>
-                     <span class="theme"> <strong>Theme:</strong>Integrity, Fairness, Creativity, Love, Joy &amp; Happiness, Gratitude</span>
+                     <span class="theme"> <strong>Theme:</strong> Love, Joy &amp; Happiness, Gratitude</span>
                      <h5>*Junior-Senior High School Recognition Program </h5>
                      <h5>初中高中颁发典礼</h5>
                   </div>
@@ -168,7 +168,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4> May 23 6PM</h4>
-                     <span class="theme"> <strong>Theme:</strong>Integrity, Fairness, Creativity, Love, Joy &amp; Happiness, Gratitude</span>
+                     <span class="theme"> <strong>Theme:</strong> Love, Joy &amp; Happiness, Gratitude</span>
                      <h5>*Grade 10 Moving-Up Ceremony </h5>
                      <h5>*十年级结业典礼</h5>
                   </div>
@@ -182,7 +182,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4>May 24 8AM</h4>
-                     <span class="theme"> <strong>Theme:</strong>Integrity, Fairness, Creativity, Love, Joy &amp; Happiness, Gratitude</span>
+                     <span class="theme"> <strong>Theme:</strong> Love, Joy &amp; Happiness, Gratitude</span>
                      <h5>*Grade 6 and Grade 12 Thanksgiving Mass </h5>
                      <h5>*六年级和十二年级的感恩节弥撒</h5>
                   </div>
@@ -196,7 +196,7 @@
                   </div>
                   <div class="events-content col-8">
                      <h4>May 24 6PM</h4>
-                     <span class="theme"> <strong>Theme:</strong>Integrity, Fairness, Creativity, Love, Joy &amp; Happiness, Gratitude</span>
+                     <span class="theme"> <strong>Theme:</strong> Love, Joy &amp; Happiness, Gratitude</span>
                      <h5>*Commencement Exercises  </h5>
                      <h5>毕业典礼</h5>
                   </div>

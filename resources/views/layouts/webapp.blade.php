@@ -94,11 +94,11 @@
                                  <a href="/about" class="nav-link">About PYCS</a>
                               </li>
                               <li class="nav-item">
-                                 <a href="/discipline-standards-and-policies" class="nav-link">General Standards and Policies</a>
+                                 <a href="/general-standards-and-policies" class="nav-link">General Standards and Policies</a>
                               </li>
                                                             <li class="nav-item">
                                  {{-- <a href="/offenses-and-sanctions" class="nav-link">Offenses and Sanctions</a> --}}
-                                 <a href="/offenses-and-sanctions" class="nav-link">Discipline Policies</a>
+                                 <a href="/discipline-policies" class="nav-link">Discipline Policies</a>
                               </li>
                               <li class="nav-item">
                                  <a href="/health-standards-and-policies" class="nav-link">Health Standards and Policies</a>
@@ -130,7 +130,7 @@
                         </li> --}}
 
                         <li class="nav-item">
-                           <a href="/admission" class="nav-link dropdown-toggle">
+                           <a href="" class="nav-link dropdown-toggle">
                            Full Operation
                            </a>
                            <ul class="dropdown-menu">

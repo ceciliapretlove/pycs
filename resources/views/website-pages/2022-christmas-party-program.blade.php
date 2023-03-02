@@ -29,6 +29,20 @@
 						<div class="col-md-4  mt-4">
 							<img src="assets/images/galleries/yep4.jpg" alt="Image">
 						</div>
+						<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/yep7.jpg" alt="Image">
+						</div>
+												<div class="col-md-4  mt-4">
+						</div>
+						<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/yep5.jpg" alt="Image">
+						</div>
+
+						<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/yep6.jpg" alt="Image">
+						</div>
+
+
 
 					</div>
                </div>

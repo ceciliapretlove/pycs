@@ -32,7 +32,9 @@
 						<div class="col-md-4  mt-4">
 							<img src="assets/images/galleries/fa5.jpg" alt="Image">
 						</div>
-
+						<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/fa6.jpg" alt="Image">
+						</div>
 					</div>
                </div>
             </div>

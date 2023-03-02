@@ -21,7 +21,10 @@
 					<div class="row">
 
 						<div class="col-md-4  mt-4">
-							<img src="assets/images/galleries/cny1.jpg" alt="Image">
+							<img src="assets/images/galleries/cny12.jpg" alt="Image">
+						</div>
+												<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/cny2.jpg" alt="Image">
 						</div>
 						<div class="col-md-4  mt-4">
 							<img src="assets/images/galleries/cny2.jpg" alt="Image">
@@ -53,6 +56,9 @@
 
 						<div class="col-md-4  mt-4">
 							<img src="assets/images/galleries/cny10.jpg" alt="Image">
+						</div>
+												<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/cny11.jpg" alt="Image">
 						</div>
 					</div>
                </div>

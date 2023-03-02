@@ -20,7 +20,7 @@ class WebsiteController extends Controller
         
     public function disciplineStandardsandPolicies()
     {
-        return view('website-pages.discipline-standards-and-policies');
+        return view('website-pages.general-standards-and-policies');
     }
 
     public function healthStandardsandPolicies()
@@ -28,9 +28,9 @@ class WebsiteController extends Controller
         return view('website-pages.health-standards-and-policies');
     }
 
-    public function offensesandSanctions()
+    public function disciplinePolicies()
     {
-        return view('website-pages.offenses-and-sanctions');
+        return view('website-pages.discipline-policies');
     }
 
     public function generalPolicies()

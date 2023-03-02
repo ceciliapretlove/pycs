@@ -26,9 +26,9 @@ Route::get('/', [WebsiteController::class, 'home']);
 
 //About
 Route::get('/about', [WebsiteController::class, 'about']);
-Route::get('/discipline-standards-and-policies', [WebsiteController::class, 'disciplineStandardsandPolicies']);
+Route::get('/general-standards-and-policies', [WebsiteController::class, 'disciplineStandardsandPolicies']);
 Route::get('/health-standards-and-policies', [WebsiteController::class, 'healthStandardsandPolicies']);
-Route::get('/offenses-and-sanctions', [WebsiteController::class, 'offensesandSanctions']);
+Route::get('/discipline-policies', [WebsiteController::class, 'disciplinePolicies']);
 Route::get('/general-policies', [WebsiteController::class, 'generalPolicies']);
 
 

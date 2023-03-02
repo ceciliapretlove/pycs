@@ -33,7 +33,7 @@
                   <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
-                  <a href="/chinese-new-year-celebration"><img src="assets/images/galleries/7.jpg" alt="Image">
+                  <a href="/chinese-new-year-celebration"><img src="assets/images/galleries/cny12.jpg" alt="Image">
                                     <div class="date">
                   <span>Jan 20, 2023</span>
 

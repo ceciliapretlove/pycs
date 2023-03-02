@@ -7,10 +7,18 @@
             <div id="learning-cycle" class="overview-box mt-3">
                <h4 class="text-center">TEACHERS CONGRESS AND TEAM BUILDING ACTIVITIES</h4>
                <h6 class="mb-4 mt-5"></h6>
-               <p>Steered by the school’s vision, PYCS regards its learners who can make a great difference in the attainment of local, national and global progress. With its desire to have an environment that leads and innovates, the school aims to strengthen its lineup of teachers, faculty and staff by analyzing the current reality, setting goals for each school year, identifying and explaining teaching strategies and techniques, and providing support until goals are met. </p>
-               <p>Not only that, the school also promotes functional literacy at par with global standards by advocating 21st century learning through dynamic and effective pedagogy, technological advancements, and child friendly learning spaces. </p>
-               <p>Moreover, teachers continue to learn with one another by incorporating best practices they observed during school-based demonstration teaching, and by closely growing together through team building sessions. Through these, teachers are given wide avenues for improved classroom management, teaching techniques, and enhanced professional well-being. </p>
-               <p>PYCS does not only strengthen teacher’s capacity to teach and transfer learning, but also builds up bonds, empower collaboration, enhances social relations, and encourages harmony to efficiently achieve the school’s big goals. </p>
+<p>Steered by the school’s vision, PYCS regards its learners who can make a great difference in the attainment of
+local, national and global progress. With its desire to have an environment that leads and innovates, the school aims to
+strengthen its lineup of teachers, faculty and staff by analyzing the current reality, setting goals for each school year,
+identifying and explaining teaching strategies and techniques, and providing support until goals are met.</p>
+<p>Not only that, the school also promotes functional literacy at par with global standards by advocating 21 st century
+learning through dynamic and effective pedagogy, technological advancements, and child friendly learning spaces.
+Moreover, teachers continue to learn with one another by incorporating best practices they observed during
+school-based demonstration teaching, and by closely growing together through team building sessions. Through these,
+teachers are given wide avenues for improved classroom management, teaching techniques, and enhanced professional
+well-being.</p>
+<p>PYCS does not only strengthen teacher’s capacity to teach and transfer learning, but also builds up bonds,
+empower collaboration, enhances social relations, and encourages harmony to efficiently achieve the school’s big goals.</p>
                <div class="row">
                   <div class="col-md-4  mt-4">
                      <img src="assets/images/galleries/tba1.jpg" alt="Image">
