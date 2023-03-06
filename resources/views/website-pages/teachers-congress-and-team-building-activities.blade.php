@@ -13,7 +13,7 @@ strengthen its lineup of teachers, faculty and staff by analyzing the current re
 identifying and explaining teaching strategies and techniques, and providing support until goals are met.</p>
 <p>Not only that, the school also promotes functional literacy at par with global standards by advocating 21 st century
 learning through dynamic and effective pedagogy, technological advancements, and child friendly learning spaces.
-Moreover, teachers continue to learn with one another by incorporating best practices they observed during
+<p>Moreover, teachers continue to learn with one another by incorporating best practices they observed during
 school-based demonstration teaching, and by closely growing together through team building sessions. Through these,
 teachers are given wide avenues for improved classroom management, teaching techniques, and enhanced professional
 well-being.</p>

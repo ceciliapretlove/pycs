@@ -39,7 +39,25 @@
 						</div>
 
 
+						<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/consul6.jpg" alt="Image">
+						</div>
+												<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/consul7.jpg" alt="Image">
+						</div>
 
+
+						<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/consul8.jpg" alt="Image">
+						</div>
+
+						<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/consul9.jpg" alt="Image">
+						</div>
+
+						<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/consul10.jpg" alt="Image">
+						</div>
 					</div>
                </div>
             </div>

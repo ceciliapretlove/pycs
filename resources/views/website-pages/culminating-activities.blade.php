@@ -7,9 +7,14 @@
             <div id="learning-cycle" class="overview-box mt-3">
                <h4 class="text-center">CULMINATING ACTIVITIES</h4>
                <h6 class="mb-4 mt-5">SY 2021-2022</h6>
-               <p>With its desire for a wholesome learning environment, and to make its philosophy, vision, mission, core values, and Confucian virtues come to life, PYCS aspires to provide its learners an opportunity to synthesize and eventually to apply the knowledge and experience gained throughout the school year. Hence, the launching of culminating activity. During this time, the learners have ample opportunities to see how their new understanding is molded in various ways.  </p>
+               <p>With its desire for a wholesome learning environment, and to make its philosophy, vision, mission, core values, and
+Confucian virtues come to life, PYCS aspires to provide its learners an opportunity to synthesize and eventually to apply
+the knowledge and experience gained throughout the school year. Hence, the launching of culminating activity. During
+this time, the learners have ample opportunities to see how their new understanding is molded in various ways.</p>
                <h5 class="mt-5 mb-3">PRE-ELEMENTARY DEPARTMENT</h5>
-               <p>Throughout the course of the first quarter, the learners performed Nursery Rhymes with the accompaniment of their own chosen musical instrument. This is to allow the children to demonstrate their confidence in manipulating objects around their environment. </p>
+               <p>Throughout the course of the first quarter, the learners performed Nursery Rhymes with the accompaniment of their own
+chosen musical instrument. This is to allow the children to demonstrate their confidence in manipulating objects around
+their environment.</p>
                <div class="row">
                   <div class="col-md-12 mt-4">
                      <img src="assets/images/galleries/ped.jpg" alt="Image">
