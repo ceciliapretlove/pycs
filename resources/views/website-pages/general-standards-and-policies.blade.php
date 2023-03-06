@@ -159,13 +159,7 @@
                   <img class="mb-5" src="assets/images/uniforms/prescribed-hair-cut-for-boys.jpg">
                   <img class="mb-5" src="assets/images/uniforms/prescribed-hair-cut-for-boys1.jpg">
                </div>
-               <div class="overview-box">
-                  <h4>Expected Behavior during General Assemblies</h4>
-                  <p>Learners should observe proper behavior during assemblies. All learners stand at attention, join in the
-                     community prayer, sing the national anthem, recite the national pledge, and sing the school hymn. General
-                     morning assemblies shall be attended by all learners and personnel.
-                  </p>
-               </div>
+
                <div class="overview-box">
                   <h4>Policies and Guidelines on Attendance and Punctuality</h4>
                   <div class="circle-list px-3">
@@ -240,6 +234,13 @@
                         </div>
                      </div>
                   </div>
+               </div>
+                              <div class="overview-box">
+                  <h4>Expected Behavior during General Assemblies</h4>
+                  <p>Learners should observe proper behavior during assemblies. All learners stand at attention, join in the
+                     community prayer, sing the national anthem, recite the national pledge, and sing the school hymn. General
+                     morning assemblies shall be attended by all learners and personnel.
+                  </p>
                </div>
                <div class="overview-box">
                   <h4>Expected Behavior during Health and Lunch Breaks</h4>

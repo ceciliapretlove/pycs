@@ -19,7 +19,7 @@
       <link rel="icon" type="image/png" href="assets/images/favicon.png">
       <link href="./assets/css/remixicon.css" rel="stylesheet">
       <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
-      <title>PYCS - Philippine Yu Chiau School</title>
+      <title>PYCS - Philippine Yuh Chiau School</title>
       <script type="text/javascript">
          var BASE_URL = '{{ url('/') }}';
          var CSRF_TOKEN = '{{ csrf_token() }}';
@@ -131,7 +131,7 @@
 
                         <li class="nav-item">
                            <a href="" class="nav-link dropdown-toggle">
-                           Full Operation
+                           School Operation
                            </a>
                            <ul class="dropdown-menu">
                               <li class="nav-item">

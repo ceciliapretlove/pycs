@@ -28,7 +28,7 @@
                               <div id="learning-cycle" class="overview-box mt-3">
                   <h4>Learners’ General Orientation</h4>
 <p>Intensive learners’ general orientation is done during the first week of the school year for the learners to proactively
-familiarize the philosophy, vision, mission, core-values, and Confucian virtues the school upholds. Deemed to be
+familiarize the vision, mission, philosophy, core-values, and Confucian virtues the school upholds. Deemed to be
 necessary, the learners have to embrace and to manifest the values, culture, and perspective a certified Yuh Chiauian must
 possess.</p>
 

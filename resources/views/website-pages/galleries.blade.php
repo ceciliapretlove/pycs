@@ -76,7 +76,7 @@
                </div>
                <div class="events-content">
                   <a href="/2022-christmas-party-program">
-                     <h3>2022 Christmas Party Program</h3>
+                     <h3>2022 Year-End Program</h3>
                   </a>
                </div>
             </div>

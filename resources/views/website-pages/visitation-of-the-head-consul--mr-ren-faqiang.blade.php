@@ -58,6 +58,10 @@
 						<div class="col-md-4  mt-4">
 							<img src="assets/images/galleries/consul10.jpg" alt="Image">
 						</div>
+
+						<div class="col-md-4  mt-4">
+							<img src="assets/images/galleries/consul11.jpg" alt="Image">
+						</div>
 					</div>
                </div>
             </div>

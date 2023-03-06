@@ -21,10 +21,9 @@
                   and <em>Hobby/Interest Clubss</em>. Each category has unique components to cater the diverse interests, if not all Yuh
                   Chiauians, majority of them.
                </p>
-               <div class="overview-box">
-                  <h4>Academic Clubs</h4>
-                  <p>These are clubs that focus on specific academic areas.
-                  </p>
+               <div class="mb-4">
+                  <h4>ACADEMIC CLUBS</h4>
+                  <p>These are clubs that focus on specific academic areas.</p>
                </div>
                               <div class="overview-box">
                   <h4>*Robotics Club</h4>
@@ -47,14 +46,7 @@
                      contested activities during the Science-Technology Fair.
                   </p>
                </div>
-               <div class="overview-box">
-                  <h4>*Future Scientist Club</h4>
-                  <p>This club is designed for learners who love scientific research works,
-                     and in preparation for science fair. Learners learn about groundbreaking studies in various fields, and
-                     possibly network with various experts working in actual labs to make them well-equipped for any
-                     research-related competitions.
-                  </p>
-               </div>
+
                <div class="overview-box">
                   <h4>*Journalism Club</h4>
                   <p>Journalism is the activity of gathering, assessing, creating, and presenting
@@ -75,9 +67,17 @@
                   </p>
                </div>
 
-               <div class="overview-box">
-                  <h4>Hobby / Interest Clubs</h4>
+               <div class="mb-4">
+                  <h4>HOBBY / INTEREST CLUBS</h4>
                   <p>These are clubs that focus on specific hobbies or interest of the Yuh Chiauians.
+                  </p>
+               </div>
+                              <div class="overview-box">
+                  <h4>*Future Scientist Club</h4>
+                  <p>This club is designed for learners who love scientific research works,
+                     and in preparation for science fair. Learners learn about groundbreaking studies in various fields, and
+                     possibly network with various experts working in actual labs to make them well-equipped for any
+                     research-related competitions.
                   </p>
                </div>
                <div class="overview-box">
@@ -168,7 +168,13 @@
                      light mode where the learners and the School Principal are like having “chit chat”.
                   </p>
                </div>
-                              <div class="overview-box">
+
+                          <div class="mb-4">
+                  <h4>UMBRELLA ORGANIZATIONS</h4>
+                  <p>These are the mother organizations of all existing school clubs/organizations.
+                  </p>
+               </div>
+                  <div class="overview-box">
                   <h4>Student Council for Student Affairs (SCSA)</h4>
                   <p>This organization is the umbrella of all other organizations of PYCS, it is conducted by learners and
                      supervised by teachers. In addition to planning events that contribute to school spirit and community

@@ -6,7 +6,7 @@
          <div class="col-lg-12">
             <div id="learning-cycle" class="overview-box mt-3">
                <h4 class="text-center">CULMINATING ACTIVITIES</h4>
-               <h6 class="mb-4 mt-5">SY 2021-2022</h6>
+              
                <p>With its desire for a wholesome learning environment, and to make its philosophy, vision, mission, core values, and
 Confucian virtues come to life, PYCS aspires to provide its learners an opportunity to synthesize and eventually to apply
 the knowledge and experience gained throughout the school year. Hence, the launching of culminating activity. During

@@ -163,7 +163,7 @@ class WebsiteController extends Controller
 
             public function article4()
     {
-        return view('website-pages.2022-christmas-party-program');
+        return view('website-pages.2022-year-end-program');
     }
             public function article5()
     {
