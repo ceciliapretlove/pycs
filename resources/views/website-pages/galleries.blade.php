@@ -68,14 +68,14 @@
                            <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
-                  <a href="/2022-christmas-party-program"><img src="assets/images/galleries/yep4.jpg" alt="Image">
+                  <a href="/2022-year-end-program"><img src="assets/images/galleries/yep4.jpg" alt="Image">
                                     <div class="date">
                   <span>Dec 15, 2022</span>
 
                   </div></a>
                </div>
                <div class="events-content">
-                  <a href="/2022-christmas-party-program">
+                  <a href="/2022-year-end-program">
                      <h3>2022 Year-End Program</h3>
                   </a>
                </div>
