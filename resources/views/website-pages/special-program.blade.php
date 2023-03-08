@@ -29,7 +29,7 @@
                <p>The learners are given time to concentrate in their selected discipline and learn different topics above
                   Regular and these are prepared by the program moderators. This program aims to intensify the skills and
                   Knowledge already acquired by the learners, and to intensively prepare the learners for different
-                  competitions relating to science, mathematics, and language.
+                  competitions relating to Science, Mathematics, and Language.
                </p>
             </div>
                             <div class="overview-box">
