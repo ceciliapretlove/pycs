@@ -27,8 +27,7 @@
                               <li><i class="ri-checkbox-circle-line"></i> A learner’s registration is understood to be enrollment for the entire school year.</li>
                               <li><i class="ri-checkbox-circle-line"></i> Aside from the specified registration period, a learner may enroll and be admitted in accordance with the reasonable rules of the school for late enrollment but which no case shall exceed two (2) weeks after the opening of classes.</li>
                               <li><i class="ri-checkbox-circle-line"></i> After the two-week period above-mentioned, no further enrollment will be allowed.</li>
-              {{--                 <li><i class="ri-checkbox-circle-line"></i> As a general rule, inter-school transfer after the enrollment period are discouraged, especially</li>
-                              <li><i class="ri-checkbox-circle-line"></i> in the cases of learners who are expected to graduate/move-up during the school year.</li> --}}
+                              <li><i class="ri-checkbox-circle-line"></i> As a general rule, inter-school transfer after the enrollment period are discouraged, especially in the cases of learners who are expected to graduate/move-up during the school year.</li>
                               <li><i class="ri-checkbox-circle-line"></i> No learner shall be officially enrolled unless all proper admission requirements are presented on or before the end of the registration period.</li>
                               <li><i class="ri-checkbox-circle-line"></i> No learner shall be officially enrolled unless all old/back accounts are settled before the start of the 3rd term.</li>
                               <li><i class="ri-checkbox-circle-line"></i> For purposes of enrollment, the name and other personal data or circumstances of each learner as indicated on the birth certificate or alien certificate of registration, where applicable, shall prevail.</li>
