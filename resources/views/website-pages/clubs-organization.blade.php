@@ -25,10 +25,9 @@
                   <h4>ACADEMIC CLUBS</h4>
                   <p>These are clubs that focus on specific academic areas.</p>
                </div>
-                              <div class="overview-box">
+               <div class="overview-box">
                   <h4>*Robotics Club</h4>
                   <p>Robotics is an interdisciplinary research area at the interface of computer science and engineering. It involves design, construction, operation, and use of robots. Its goal is to design intelligent machines that can help and assist humans in their day-to-day lives and keep everyone safe.</p>
-
                   <p>PYCS; however, started allowing and supporting able Yuh Chiauians to join different Robotics-related competitions not only in the country but in other countries as well. This program is open to learners in the grade school to senior high school.</p>
                </div>
                <div class="overview-box">
@@ -46,7 +45,6 @@
                      contested activities during the Science-Technology Fair.
                   </p>
                </div>
-
                <div class="overview-box">
                   <h4>*Journalism Club</h4>
                   <p>Journalism is the activity of gathering, assessing, creating, and presenting
@@ -66,13 +64,12 @@
                      hone their skills in preparation for college or university, and competitions too.
                   </p>
                </div>
-
                <div class="mb-4">
                   <h4>HOBBY / INTEREST CLUBS</h4>
                   <p>These are clubs that focus on specific hobbies or interest of the Yuh Chiauians.
                   </p>
                </div>
-                              <div class="overview-box">
+               <div class="overview-box">
                   <h4>*Future Scientist Club</h4>
                   <p>This club is designed for learners who love scientific research works,
                      and in preparation for science fair. Learners learn about groundbreaking studies in various fields, and
@@ -168,13 +165,12 @@
                      light mode where the learners and the School Principal are like having “chit chat”.
                   </p>
                </div>
-
-                          <div class="mb-4">
+               <div class="mb-4">
                   <h4>UMBRELLA ORGANIZATIONS</h4>
                   <p>These are the mother organizations of all existing school clubs/organizations.
                   </p>
                </div>
-                  <div class="overview-box">
+               <div class="overview-box">
                   <h4>Student Council for Student Affairs (SCSA)</h4>
                   <p>This organization is the umbrella of all other organizations of PYCS, it is conducted by learners and supervised
                      by teachers. In addition to planning events that contribute to school spirit and community welfare, the SCSA is
@@ -182,15 +178,15 @@
                      community.
                   </p>
                   <p>SCSA officers are generally responsible for organizing activities like intramural, community service, and
-community outreach. Election of officers usually happens before the end of the school year.
+                     community outreach. Election of officers usually happens before the end of the school year.
                   </p>
                </div>
                <div class="overview-box">
                   <h4>School Paper</h4>
                   <p>The <em>Gazette</em> is the official school paper of PYCS, it is news-type written and published by the JSHS learners in
-the school. As an educational institution, it is the school’s responsibility to provide learners a healthy and
-quality environment that helps to develop their core skills. An internal newspaper is one of the mediums that
-PYCS provided to learners to ensure highest standards of education, both academic and extracurricular. <em>The Messenger</em> is a school paper in the grade school department. School paper is a vital school activity for the learner, and with the following objectives:
+                     the school. As an educational institution, it is the school’s responsibility to provide learners a healthy and
+                     quality environment that helps to develop their core skills. An internal newspaper is one of the mediums that
+                     PYCS provided to learners to ensure highest standards of education, both academic and extracurricular. <em>The Messenger</em> is a school paper in the grade school department. School paper is a vital school activity for the learner, and with the following objectives:
                   </p>
                   <div class="number-list px-3">
                      <div class="row">
@@ -201,15 +197,15 @@ PYCS provided to learners to ensure highest standards of education, both academi
                                  ideas, a school paper is the best way to capture these in a creative manner.
                               </li>
                               <li>To <em>Build the Confidence of the Learners</em> – when learners get a platform to articulate their thoughts
-without any reservation, it helps to build their confidence. Their participation in school paper makes
-them feel special, and it adds great enthusiastic in them to present their skills.
+                                 without any reservation, it helps to build their confidence. Their participation in school paper makes
+                                 them feel special, and it adds great enthusiastic in them to present their skills.
                               </li>
                               <li>To <em>Improve Communication</em>– a learner-run school paper is a great way to build communication
-between all groups in the school. They come together to interact, to brainstorm, and to ideate, and
-they help improve association among each other.
+                                 between all groups in the school. They come together to interact, to brainstorm, and to ideate, and
+                                 they help improve association among each other.
                               </li>
                               <li>To <em>Help Build Teamwork</em> – brainstorming and producing a school paper provide the learners with
-valuable experience in collaboration and teamwork that can go a long way in their lives.
+                                 valuable experience in collaboration and teamwork that can go a long way in their lives.
                               </li>
                            </ul>
                         </div>
@@ -218,7 +214,6 @@ valuable experience in collaboration and teamwork that can go a long way in thei
                </div>
             </div>
          </div>
-
       </div>
    </div>
 </div>
