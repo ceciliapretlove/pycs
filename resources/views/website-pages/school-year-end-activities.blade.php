@@ -12,8 +12,8 @@
       <div class="row">
          <div class="col-lg-12">
             <div class="overview">
-               <div class="overview-box">
-                  <h4>School Year-end Activities</h4>
+                <div class="mb-4">
+                  <h4>SCHOOL YEAR-END ACTIVITIES</h4>
                   <p>The Year-End Activities like Recognition Program, Moving-Up Program, and Commencement
                      Exercises are considered to be the “must” programs to celebrate every time each school year comes to
                      close.

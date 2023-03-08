@@ -21,7 +21,7 @@
                   <em>Co-curricular</em>, and <em>Extracurricular</em>.
                </p>
                <div class="mb-4">
-                  <h4>Curricular Activities</h4>
+                  <h4>CURRICULAR ACTIVITIES</h4>
                   <p>These are school-based activities designed by learning areas complementing the curriculum to provide
                      opportunities for the learners to further develop their talents and potentials, and such activities are held
                      during the school year.
@@ -91,7 +91,7 @@
                   </p>
                </div>
                <div class="mb-4">
-                  <h4>Co-Curricular Activities</h4>
+                  <h4>CO-CURRICULAR ACTIVITIES</h4>
                   <p>These are activities outside the school with different levels, and still complementing the curriculum.
                      Participation to these activities is a very important part and parcel of educational institutions to develop
                      the learners’ personality as well as to strengthen classroom learning.
@@ -162,14 +162,14 @@
                      fun-filled. These activities are open to all learners from Nursery 1 to Grade 12.
                   </p>
                </div>
-{{--                <div class="mb-4">
-                  <h4>Extra-Curricular Activities</h4>
-                  <p>An <em>extracurricular</em> or <em>extra academic activity</em> is an activity, performed by learners, that falls outside the
-                     realm of the normal curriculum. These activities help the learners to learn about themselves and develop
-                     and use their skills and knowledge in different contexts. For learners in the JSHS, such activities are
-                     essential elements for them to college or university.
+               <div class="mb-4">
+                  <h4>EXTRA-CURRICULAR ACTIVITIES</h4>
+                  <p>An <em>extracurricular</em> or <em>extra academic activity</em> is an activity, performed by learners, that falls outside the realm
+                     of the normal curriculum. These activities help the learners to learn about themselves and develop and use their
+                     skills and knowledge in different contexts. For learners in the JSHS, such activities are essential elements for
+                     them to college or university.
                   </p>
-               </div> --}}
+               </div>
 
             </div>
          </div>

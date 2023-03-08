@@ -64,7 +64,7 @@ Route::get('/others', [WebsiteController::class, 'others']);
 Route::get('/visitation-of-the-head-consul--mr-ren-faqiang', [WebsiteController::class, 'article1']);
 Route::get('/chinese-new-year-celebration', [WebsiteController::class, 'article2']);
 Route::get('/culminating-activities', [WebsiteController::class, 'article3']);
-Route::get('/2022-christmas-party-program', [WebsiteController::class, 'article4']);
+Route::get('/2022-year-end-program', [WebsiteController::class, 'article4']);
 Route::get('/pycs-intramurals', [WebsiteController::class, 'article5']);
 Route::get('/75th-founding-anniversary', [WebsiteController::class, 'article6']);
 Route::get('/teachers-congress-and-team-building-activities', [WebsiteController::class, 'article7']);
