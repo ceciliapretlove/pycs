@@ -10,7 +10,7 @@
                   <div class="container-fluid">
                      <div class="slider-content">
                         <h1>Experience the Culture of Excellence</h1>
-                        <p>Tranforming lives through Education with Quality Assurance</p>
+                        <p>Tranforming Lives through Education with Quality Assurance</p>
                      </div>
                   </div>
                </div>
@@ -21,7 +21,7 @@
                   <div class="container-fluid">
                      <div class="slider-content">
                         <h1>Experience the Culture of Excellence</h1>
-                        <p>Tranforming lives through Education with Quality Assurance</p>
+                        <p>Tranforming Lives through Education with Quality Assurance</p>
                      </div>
                   </div>
                </div>
@@ -32,7 +32,7 @@
                   <div class="container-fluid">
                      <div class="slider-content">
                         <h1>Experience the Culture of Excellence</h1>
-                        <p>Tranforming lives through Education with Quality Assurance</p>
+                        <p>Tranforming Lives through Education with Quality Assurance</p>
                      </div>
                   </div>
                </div>
@@ -43,7 +43,7 @@
                   <div class="container-fluid">
                      <div class="slider-content">
                         <h1>Experience the Culture of Excellence</h1>
-                        <p>Tranforming lives through Education with Quality Assurance</p>
+                        <p>Tranforming Lives through Education with Quality Assurance</p>
                      </div>
                   </div>
                </div>
@@ -54,7 +54,7 @@
                   <div class="container-fluid">
                      <div class="slider-content">
                         <h1>Experience the Culture of Excellence</h1>
-                        <p>Tranforming lives through Education with Quality Assurance</p>
+                        <p>Tranforming Lives through Education with Quality Assurance</p>
                      </div>
                   </div>
                </div>
@@ -65,7 +65,7 @@
                   <div class="container-fluid">
                      <div class="slider-content">
                         <h1>Experience the Culture of Excellence</h1>
-                        <p>Tranforming lives through Education with Quality Assurance</p>
+                        <p>Tranforming Lives through Education with Quality Assurance</p>
                      </div>
                   </div>
                </div>
