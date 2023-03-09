@@ -73,7 +73,29 @@
          </div>
          <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="ri-arrow-left-line"></i></button><button type="button" role="presentation" class="owl-next"><i class="ri-arrow-right-line"></i></button></div>
          <div class="owl-dots disabled"></div>
+           <div class="popup">
+        <button id="close">&times;</button>
+      
+
+    </div>
       </div>
    </div>
 </div>
 @endsection
+<script
+  src="https://code.jquery.com/jquery-3.6.4.min.js"
+  integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
+  crossorigin="anonymous"></script>
+ <script type="text/javascript">
+
+$( document ).ready(function() {
+    // $('.popup').css('display', 'block').show().fadeIn();
+   $('.popup').delay(600).animate({'opacity':'1'},800);
+   $("button#close").click(function(){
+  $('.popup').delay(400).animate({'opacity':'0'},400);
+});
+});
+
+
+
+    </script>

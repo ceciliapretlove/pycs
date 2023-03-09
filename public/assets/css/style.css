@@ -5124,3 +5124,51 @@ img.hover-shadow {
   cursor: pointer;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+.popup{
+    background-image: url(../images/banner/eab.jpg);
+    background-repeat: no-repeat;
+    width: 889px;
+    height: 500px;
+    position: absolute;
+  position: absolute;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px 20px;
+  -webkit-box-shadow: -1px 2px 30px -8px rgba(0, 0, 0, 0.62);
+  -moz-box-shadow: -1px 2px 30px -8px rgba(0, 0, 0, 0.62);
+  box-shadow: -1px 2px 30px -8px rgba(0, 0, 0, 0.62);
+
+}
+.popup button{
+    display: block;
+    margin: 0 0 37px auto;
+    text-align: right;
+    width: 100%;
+    top: 10px;
+    position: absolute;
+    background-color: transparent;
+    font-size: 30px;
+    right: 10px;
+    color: #03549a;
+    /* background: #03549a; */
+    border-radius: 100%;
+    /* width: 0px; */
+    /* height: 0px; */
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+/*.popup h2{
+  margin-top: -20px;
+}
+.popup p{
+    font-size: 14px;
+    text-align: justify;
+    margin: 20px 0;
+    line-height: 25px;
+}*/
