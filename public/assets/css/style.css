@@ -5125,11 +5125,10 @@ img.hover-shadow {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .popup{
-    background-image: url(../images/banner/eab.jpg);
+
     background-repeat: no-repeat;
     width: 889px;
     height: 500px;
-    position: absolute;
   position: absolute;
   border-radius: 5px;
   display: flex;
@@ -5144,7 +5143,7 @@ img.hover-shadow {
   box-shadow: -1px 2px 30px -8px rgba(0, 0, 0, 0.62);
 
 }
-.popup button{
+.popup > button{
     display: block;
     margin: 0 0 37px auto;
     text-align: right;

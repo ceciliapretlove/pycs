@@ -73,11 +73,17 @@
          </div>
          <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="ri-arrow-left-line"></i></button><button type="button" role="presentation" class="owl-next"><i class="ri-arrow-right-line"></i></button></div>
          <div class="owl-dots disabled"></div>
-           <div class="popup">
-        <button id="close">&times;</button>
-      
+                   <div id="popup_banner3" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-3.jpg') }}')" >
+          <button id="close3">&times;</button>
+         </div>
+                   <div id="popup_banner2" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-2.jpg') }}')" >
+          <button id="close2">&times;</button>
+         </div>
 
-    </div>
+         <div id="popup_banner1" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-1.jpg') }}')" >
+          <button id="close">&times;</button>
+         </div>
+
       </div>
    </div>
 </div>
@@ -89,10 +95,26 @@
  <script type="text/javascript">
 
 $( document ).ready(function() {
+
     // $('.popup').css('display', 'block').show().fadeIn();
-   $('.popup').delay(600).animate({'opacity':'1'},800);
-   $("button#close").click(function(){
-  $('.popup').delay(400).animate({'opacity':'0'},400);
+   $('#popup_banner1').css({ 'opacity': '1'});
+      $("button#close").click(function(){
+        $('#popup_banner1').delay(400).animate({'opacity':'0'},400);
+         $('button#close').css('display', 'none');
+         $('#popup_banner1').css({ 'display': 'none'});
+      });
+
+   $('#popup_banner2').css({ 'opacity': '1'});
+   $("button#close2").click(function(){
+       $('#popup_banner1').delay(400).animate({'opacity':'0'},400);
+       $('button#close2').css('display', 'none');
+       $('#popup_banner2').css({ 'display': 'none'});
+});
+
+   $('#popup_banner3').css({ 'opacity': '1'});
+   $("button#close3").click(function(){
+  $('#popup_banner3').delay(400).animate({'opacity':'0'},400);
+         $('button#close3').css('display', 'none');
 });
 });
 
