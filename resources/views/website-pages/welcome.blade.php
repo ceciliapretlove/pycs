@@ -97,25 +97,25 @@
 $( document ).ready(function() {
 
     // $('.popup').css('display', 'block').show().fadeIn();
-   $('#popup_banner1').css({ 'opacity': '1'});
-      $("button#close").click(function(){
-        $('#popup_banner1').delay(400).animate({'opacity':'0'},400);
-         $('button#close').css('display', 'none');
-         $('#popup_banner1').css({ 'display': 'none'});
-      });
+      $('#popup_banner1').css({ 'opacity': '1'});
+         $("button#close").click(function(){
+           $('#popup_banner1').delay(400).animate({'opacity':'0'},400);
+            $('button#close').css('display', 'none');
+            $('#popup_banner1').css({ 'display': 'none'});
+         });
 
-   $('#popup_banner2').css({ 'opacity': '1'});
-   $("button#close2").click(function(){
-       $('#popup_banner1').delay(400).animate({'opacity':'0'},400);
-       $('button#close2').css('display', 'none');
-       $('#popup_banner2').css({ 'display': 'none'});
-});
+      $('#popup_banner2').css({ 'opacity': '1'});
+      $("button#close2").click(function(){
+          $('#popup_banner1').delay(400).animate({'opacity':'0'},400);
+          $('button#close2').css('display', 'none');
+          $('#popup_banner2').css({ 'display': 'none'});
+   });
 
-   $('#popup_banner3').css({ 'opacity': '1'});
-   $("button#close3").click(function(){
-  $('#popup_banner3').delay(400).animate({'opacity':'0'},400);
-         $('button#close3').css('display', 'none');
-});
+      $('#popup_banner3').css({ 'opacity': '1'});
+      $("button#close3").click(function(){
+     $('#popup_banner3').delay(400).animate({'opacity':'0'},400);
+            $('button#close3').css('display', 'none');
+   });
 });
 
 
