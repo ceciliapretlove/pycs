@@ -13,7 +13,7 @@
    <div class="container">
       <div class="row justify-content-center">
          <div class="col-lg-9 col-md-6">
-            <div class="single-events-card style2">
+{{--             <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/assesment.jpg" >
@@ -51,7 +51,7 @@
                      <h5>*第四学期开始 - 同步和非同步学习活动</h5>
                   </div>
                </div>
-            </div>
+            </div> --}}
             <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
