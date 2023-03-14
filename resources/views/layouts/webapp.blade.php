@@ -260,7 +260,7 @@
                      <h3>Social Media</h3>
                      <div class="list">
                         <ul>
-                           <li>Facebook Page: <a href="https://www.facebook.com/transforminglivespycs">www.facebook.com/transforminglivespycs</a></li>
+                           <li>Facebook Page: <a href="https://www.facebook.com/transforminglivespycs" target="_blank">www.facebook.com/transforminglivespycs</a></li>
                         </ul>
                      </div>
                   </div>
@@ -280,7 +280,7 @@
                         <ul>
                            <li><span>Follow Us On</span></li>
                            <li>
-                              <a href="https://web.facebook.com/transforminglivespycs" target="_blank"><i class="ri-facebook-fill"></i></a>
+                              <a href="https://www.facebook.com/transforminglivespycs" target="_blank"><i class="ri-facebook-fill"></i></a>
                            </li>
                         </ul>
                      </div>
