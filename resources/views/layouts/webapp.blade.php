@@ -260,7 +260,7 @@
                      <h3>Social Media</h3>
                      <div class="list">
                         <ul>
-                           <li>Facebook Page: <a href="https://web.facebook.com/transforminglivespycs">https://web.facebook.com/transforminglivespycs</a></li>
+                           <li>Facebook Page: <a href="https://www.facebook.com/transforminglivespycs">www.facebook.com/transforminglivespycs</a></li>
                         </ul>
                      </div>
                   </div>
@@ -287,7 +287,7 @@
                   </div>
                   <div class="col-lg-6 col-md-8">
                      <div class="copy">
-                        <p>© Philippine Yuh Chiau School</p>
+                        <p>© Philippine Yuh Chiau School, Inc. </p>
                      </div>
                   </div>
                </div>
