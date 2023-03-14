@@ -119,7 +119,7 @@
                <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/congratulations-class-of-2023.png" >
+                     <img src="assets/images/events/class_2023.jpg" >
                   </div>
                   <div class="events-content col-8">
                      <h4> May 22 8AM</h4>
@@ -134,7 +134,7 @@
                <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/congratulations-class-of-2023.png" >
+                     <img src="assets/images/events/class_2023.jpg" >
                   </div>
                   <div class="events-content col-8">
                      <h4> May 22 6PM</h4>
@@ -149,7 +149,7 @@
                <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/congratulations-class-of-2023.png" >
+                     <img src="assets/images/events/class_2023.jpg" >
                   </div>
                   <div class="events-content col-8">
                      <h4> May 23 8AM</h4>
@@ -164,7 +164,7 @@
                <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/congratulations-class-of-2023.png" >
+                     <img src="assets/images/events/class_2023.jpg" >
                   </div>
                   <div class="events-content col-8">
                      <h4> May 23 6PM</h4>
@@ -192,7 +192,7 @@
                            <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/congratulations-class-of-2023.png" >
+                     <img src="assets/images/events/class_2023.jpg" >
                   </div>
                   <div class="events-content col-8">
                      <h4>May 24 6PM</h4>
