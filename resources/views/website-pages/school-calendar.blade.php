@@ -203,7 +203,7 @@
                </div>
             </div>
 
-            <div class="single-events-card style2">
+{{--             <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/galleries/tba30.jpg" >
@@ -478,7 +478,7 @@
                      <h5>**Start of Semestral &amp; Christmas Break 学期/圣诞假期开始</h5>
                   </div>
                </div>
-            </div>
+            </div> --}}
          </div>
          <div class="col-lg-3">
             <div class="acdemics-right-content">
