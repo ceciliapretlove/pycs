@@ -26,14 +26,14 @@
          var ASSETS = '{{ asset('/') }}';
       </script>
    </head>
-   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-50QY8454YX"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0EH6NZXYG2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-50QY8454YX');
+  gtag('config', 'G-0EH6NZXYG2');
 </script>
    <body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
       <div class="preloader-area" style="display: none;">
@@ -246,6 +246,7 @@
                            <li>Globe : 0966-416-1972</li>
                            <li>Smart : 0908-885-1783</li>
                            <li>Landline : (078) 652-0839</li>
+                           <li>Website : <a href="https://www.pycs.ph/">www.pycs.ph</a></li>
                         </ul>
                      </div>
                   </div>
