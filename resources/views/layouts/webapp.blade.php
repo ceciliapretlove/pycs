@@ -5,6 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+      <meta name="google-site-verification" content="SQqOhMZxpoBHNw3we6yhBu3kl67GHK5xfpr7omJoNrk" />
       <link rel="stylesheet" href="./assets/css/meanmenu.css">
       <link rel="stylesheet" href="./assets/css/owl.carousel.min.css">
       <link rel="stylesheet" href="./assets/css/owl.theme.default.min.css">
@@ -26,15 +27,6 @@
          var ASSETS = '{{ asset('/') }}';
       </script>
    </head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0EH6NZXYG2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-0EH6NZXYG2');
-</script>
    <body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
       <div class="preloader-area" style="display: none;">
          <div class="spinner">
