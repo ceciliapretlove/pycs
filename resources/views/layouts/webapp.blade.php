@@ -26,6 +26,15 @@
          var ASSETS = '{{ asset('/') }}';
       </script>
    </head>
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-50QY8454YX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-50QY8454YX');
+</script>
    <body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
       <div class="preloader-area" style="display: none;">
          <div class="spinner">
