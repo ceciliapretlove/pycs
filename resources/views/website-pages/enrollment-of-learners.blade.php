@@ -44,7 +44,7 @@
                                  applicant who, it believes, fails to meet the criteria for admission.
                               </li>
                               <li>The school accepts only qualified applicants for enrollment. Every applicant for enrollment
-                                 must comply with the requirements and follow standards operating procedures.
+                                 must comply with the requirements and follow standard operating procedures.
                               </li>
                               <li>No old learner is allowed to enroll unless all requirements are presented at the scheduled time
                                  of enrollment.
