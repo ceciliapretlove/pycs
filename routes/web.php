@@ -25,7 +25,8 @@ Auth::routes();
 Route::get('/', [WebsiteController::class, 'home']);
 
 //About
-Route::get('/about', [WebsiteController::class, 'about']);
+Route::get('/humble-begginings-of-pycs', [WebsiteController::class, 'humbleBegginingsOfPycs']);
+Route::get('/philosophy-and-institutional-objectives', [WebsiteController::class, 'philosophyAndInstitutionalObjectives']);
 Route::get('/general-standards-and-policies', [WebsiteController::class, 'disciplineStandardsandPolicies']);
 Route::get('/health-standards-and-policies', [WebsiteController::class, 'healthStandardsandPolicies']);
 Route::get('/discipline-policies', [WebsiteController::class, 'disciplinePolicies']);

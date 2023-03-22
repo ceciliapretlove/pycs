@@ -13,11 +13,14 @@ class WebsiteController extends Controller
 
 
 //About
-    public function about()
+    public function humbleBegginingsOfPycs()
     {
-        return view('website-pages.about');
+        return view('website-pages.humble-begginings-of-pycs');
     }
-        
+    public function philosophyAndInstitutionalObjectives()
+    {
+        return view('website-pages.philosophy-and-institutional-objectives');
+    }  
     public function disciplineStandardsandPolicies()
     {
         return view('website-pages.general-standards-and-policies');

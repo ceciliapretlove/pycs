@@ -88,13 +88,17 @@
                            </a>
                         </li>
                         <li class="nav-item">
-                           <a href="/about" class="nav-link dropdown-toggle">
+                           <a href="/humble-begginings-of-pycs" class="nav-link dropdown-toggle">
                            About
                            </a>
                            <ul class="dropdown-menu">
                               <li class="nav-item">
-                                 <a href="/about" class="nav-link">About PYCS</a>
+                                 <a href="/humble-begginings-of-pycs" class="nav-link">Humble Beginnings of PYCS</a>
                               </li>
+                              <li class="nav-item">
+                                 <a href="/philosophy-and-institutional-objectives" class="nav-link">Philosophy And Institutional Objectives</a>
+                              </li>
+
                               <li class="nav-item">
                                  <a href="/general-standards-and-policies" class="nav-link">General Standards and Policies</a>
                               </li>
