@@ -62,7 +62,7 @@
                   <h4 class="mb-4">Tutorial Policy</h4>
                   <p>To further enrich the academic learning skills of the learners outside formal classroom procedure, tutorial
                      sessions have been offered over the years by the English and/or Chinese faculty members, and its conduct is
-                     approved the School Principal with specific guidelines.
+                     approved by the School Principal with specific guidelines.
                   </p>
                   <p>The school hereby presents its tutorial policy, and every English and/or Chinese faculty member is mandated
                      to observe the strictest implementation of it.

@@ -18,7 +18,7 @@
                   perhaps even find ones they did not know they had.
                </p>
                <p>Clubs at Philippine Yuh Chiau School are categorized into three (3): <em>Umbrella Organizations</em>, <em>Academic Clubs</em>,
-                  and <em>Hobby/Interest Clubss</em>. Each category has unique components to cater the diverse interests, if not all Yuh
+                  and <em>Hobby/Interest Clubs</em>. Each category has unique components to cater the diverse interests, if not all Yuh
                   Chiauians, majority of them.
                </p>
                <div class="mb-4">
