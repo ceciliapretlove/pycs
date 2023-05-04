@@ -52,7 +52,7 @@
                   </div>
                </div>
             </div> --}}
-            <div class="single-events-card style2">
+{{--             <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
                      <img src="assets/images/events/holy-week-with-crosses.avif" >
@@ -101,17 +101,17 @@
                      <h5>*幼稚园及小学部中英文考核周</h5>
                   </div>
                </div>
-            </div>
+            </div> --}}
             <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
-                     <img src="assets/images/events/labor.webp" >
+                     <img src="assets/images/events/school-starts.jpg" >
                   </div>
                   <div class="events-content col-8">
-                     <h4> May 1</h4>
-                     <span class="theme"> <strong>Theme:</strong> Humility, Honesty, Diligence</span>
-                     <h5>**National Holiday: Labor Day</h5>
-                     <h5>全国假日。劳动节</h5>
+                     <h4> April 11 - May 31, 2023</h4>
+                     {{-- <span class="theme"> <strong>Theme:</strong> Humility, Honesty, Diligence</span> --}}
+                     <h5>Early Enrollment (SY2023-2024)</h5>
+                     <h5>Monday - Friday | 8:00 AM - 4:00PM | ADMIN OFFICE</h5>
                   </div>
                </div>
             </div>
@@ -202,7 +202,19 @@
                   </div>
                </div>
             </div>
-
+            <div class="single-events-card style2">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/school-starts.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>June 1 - July 28, 2023</h4>
+                     {{-- <span class="theme"> <strong>Theme:</strong> Humility, Honesty, Diligence</span> --}}
+                     <h5>Enrollment (SY2023-2024)</h5>
+                     <h5>Monday - Friday | 8:00 AM - 4:00PM | ADMIN OFFICE</h5>
+                  </div>
+               </div>
+            </div>
 {{--             <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">

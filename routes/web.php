@@ -69,6 +69,13 @@ Route::get('/2022-year-end-program', [WebsiteController::class, 'article4']);
 Route::get('/pycs-intramurals', [WebsiteController::class, 'article5']);
 Route::get('/75th-founding-anniversary', [WebsiteController::class, 'article6']);
 Route::get('/teachers-congress-and-team-building-activities', [WebsiteController::class, 'article7']);
+Route::get('/litmus-grade7', [WebsiteController::class, 'article8']);
+Route::get('/litmus-grade8', [WebsiteController::class, 'article9']);
+Route::get('/litmus-grade9', [WebsiteController::class, 'article10']);
+Route::get('/litmus-grade10', [WebsiteController::class, 'article11']);
+Route::get('/litmus-lower-grade-department', [WebsiteController::class, 'article12']);
+Route::get('/litmus-pre-elementary-department', [WebsiteController::class, 'article13']);
+Route::get('/litmus-upper-grade-department', [WebsiteController::class, 'article14']);
 
 Route::group( ['middleware' => 'auth' ], function()
 {

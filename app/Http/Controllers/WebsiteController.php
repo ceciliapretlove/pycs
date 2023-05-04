@@ -164,7 +164,7 @@ class WebsiteController extends Controller
         return view('website-pages.culminating-activities');
     }
 
-            public function article4()
+        public function article4()
     {
         return view('website-pages.2022-year-end-program');
     }
@@ -172,16 +172,49 @@ class WebsiteController extends Controller
     {
         return view('website-pages.pycs-intramurals');
     }
-            public function article6()
+        public function article6()
     {
         return view('website-pages.75th-founding-anniversary');
     }
 
-                public function article7()
+        public function article7()
     {
         return view('website-pages.teachers-congress-and-team-building-activities');
     }
 
-    
+        public function article8()
+    {
+        return view('website-pages.litmus-grade7');
+    }
 
+
+        public function article9()
+    {
+        return view('website-pages.litmus-grade8');
+    }
+
+
+        public function article10()
+    {
+        return view('website-pages.litmus-grade9');
+    }
+
+        public function article11()
+    {
+        return view('website-pages.litmus-grade10');
+    }
+
+        public function article12()
+    {
+        return view('website-pages.litmus-lower-grade-department');
+    }
+
+        public function article13()
+    {
+        return view('website-pages.litmus-pre-elementary-department');
+    }
+        public function article14()
+    {
+        return view('website-pages.litmus-upper-grade-department');
+    }
 }

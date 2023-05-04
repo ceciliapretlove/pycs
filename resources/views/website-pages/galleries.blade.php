@@ -11,16 +11,82 @@
 <div class="events-area pt-100 pb-70">
    <div class="container">
       <div class="row justify-content-center">
+                  <div class="col-lg-4 col-md-6">
+            <div class="single-events-card style-4">
+               <div class="events-image">
+                  <a href="/litmus-grade7">
+                  <img src="assets/images/galleries/grade_7_1.jpg" alt="Image">
+                  </a>
+                  <div class="date">
+                     {{-- <span>Feb 14, 2023</span> --}}
+                  </div>
+               </div>
+               <div class="events-content">
+                  <a href="/litmus-grade7">
+                     <h3>PYCS Litmus 2023 - Grade 7</h3>
+                  </a>
+               </div>
+            </div>
+         </div>
+                  <div class="col-lg-4 col-md-6">
+            <div class="single-events-card style-4">
+               <div class="events-image">
+                  <a href="/litmus-grade8">
+                  <img src="assets/images/galleries/grade_8_1.jpg" alt="Image">
+                  </a>
+                  <div class="date">
+                     {{-- <span>Feb 14, 2023</span> --}}
+                  </div>
+               </div>
+               <div class="events-content">
+                  <a href="/litmus-grade8">
+                     <h3>PYCS Litmus 2023 - Grade 8</h3>
+                  </a>
+               </div>
+            </div>
+         </div>
+                  <div class="col-lg-4 col-md-6">
+            <div class="single-events-card style-4">
+               <div class="events-image">
+                  <a href="/litmus-grade9">
+                  <img src="assets/images/galleries/grade_9_1.jpg" alt="Image">
+                  </a>
+                  <div class="date">
+                     {{-- <span>Feb 14, 2023</span> --}}
+                  </div>
+               </div>
+               <div class="events-content">
+                  <a href="/litmus-grade9">
+                     <h3>PYCS Litmus 2023 - Grade 9</h3>
+                  </a>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-4 col-md-6">
+            <div class="single-events-card style-4">
+               <div class="events-image">
+                  <a href="/litmus-grade10">
+                  <img src="assets/images/galleries/grade_10_1.jpg" alt="Image">
+                  </a>
+                  <div class="date">
+                     {{-- <span>Feb 14, 2023</span> --}}
+                  </div>
+               </div>
+               <div class="events-content">
+                  <a href="/litmus-grade10">
+                     <h3>PYCS Litmus 2023 - Grade 10</h3>
+                  </a>
+               </div>
+            </div>
+         </div>
          <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
                   <a href="/visitation-of-the-head-consul--mr-ren-faqiang">
-                     <img src="assets/images/galleries/consul4.jpg" alt="Image">
+                  <img src="assets/images/galleries/consul4.jpg" alt="Image">
                   </a>
-                  
                   <div class="date">
-                  <span>Feb 14, 2023</span>
-
+                     <span>Feb 14, 2023</span>
                   </div>
                </div>
                <div class="events-content">
@@ -30,14 +96,15 @@
                </div>
             </div>
          </div>
-                  <div class="col-lg-4 col-md-6">
+         <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
-                  <a href="/chinese-new-year-celebration"><img src="assets/images/galleries/cny12.jpg" alt="Image">
-                                    <div class="date">
-                  <span>Jan 20, 2023</span>
-
-                  </div></a>
+                  <a href="/chinese-new-year-celebration">
+                     <img src="assets/images/galleries/cny12.jpg" alt="Image">
+                     <div class="date">
+                        <span>Jan 20, 2023</span>
+                     </div>
+                  </a>
                </div>
                <div class="events-content">
                   <a href="/chinese-new-year-celebration">
@@ -46,16 +113,15 @@
                </div>
             </div>
          </div>
-
-
-                  <div class="col-lg-4 col-md-6">
+         <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
-                  <a href="/culminating-activities"><img src="assets/images/galleries/ca.jpg" alt="Image">
-                                    <div class="date">
-                  <span>SY 2021-2022</span>
-
-                  </div></a>
+                  <a href="/culminating-activities">
+                     <img src="assets/images/galleries/ca.jpg" alt="Image">
+                     <div class="date">
+                        <span>SY 2021-2022</span>
+                     </div>
+                  </a>
                </div>
                <div class="events-content">
                   <a href="/culminating-activities">
@@ -64,15 +130,15 @@
                </div>
             </div>
          </div>
-
-                           <div class="col-lg-4 col-md-6">
+         <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
-                  <a href="/2022-year-end-program"><img src="assets/images/galleries/yep4.jpg" alt="Image">
-                                    <div class="date">
-                  <span>Dec 15, 2022</span>
-
-                  </div></a>
+                  <a href="/2022-year-end-program">
+                     <img src="assets/images/galleries/yep4.jpg" alt="Image">
+                     <div class="date">
+                        <span>Dec 15, 2022</span>
+                     </div>
+                  </a>
                </div>
                <div class="events-content">
                   <a href="/2022-year-end-program">
@@ -81,15 +147,15 @@
                </div>
             </div>
          </div>
-                  <div class="col-lg-4 col-md-6">
+         <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
-                  <a href="/pycs-intramurals"><img src="assets/images/galleries/pycsi1.jpg" alt="Image">
-                 <div class="date">
-                  <span>Oct 24 - 28, 2022</span>
-
-                  </div>
-               </a>
+                  <a href="/pycs-intramurals">
+                     <img src="assets/images/galleries/pycsi1.jpg" alt="Image">
+                     <div class="date">
+                        <span>Oct 24 - 28, 2022</span>
+                     </div>
+                  </a>
                </div>
                <div class="events-content">
                   <a href="/pycs-intramurals">
@@ -98,14 +164,15 @@
                </div>
             </div>
          </div>
-                  <div class="col-lg-4 col-md-6">
+         <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
-                  <a href="/75th-founding-anniversary"><img src="assets/images/galleries/fa2.jpg" alt="Image">
-                                    <div class="date">
-                  <span>Dec 20, 2021</span>
-
-                  </div></a>
+                  <a href="/75th-founding-anniversary">
+                     <img src="assets/images/galleries/fa2.jpg" alt="Image">
+                     <div class="date">
+                        <span>Dec 20, 2021</span>
+                     </div>
+                  </a>
                </div>
                <div class="events-content">
                   <a href="/75th-founding-anniversary">
@@ -114,15 +181,17 @@
                </div>
             </div>
          </div>
-                  <div class="col-lg-4 col-md-6">
+         <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
-                  <a href="/teachers-congress-and-team-building-activities"><img src="assets/images/galleries/tba11.jpg" alt="Image">
- {{--                <div class="date">
-                  <span>Feb 14, 2023</span>
-
-                  </div> --}}
-               </a>
+                  <a href="/teachers-congress-and-team-building-activities">
+                     <img src="assets/images/galleries/tba11.jpg" alt="Image">
+                     {{--                
+                     <div class="date">
+                        <span>Feb 14, 2023</span>
+                     </div>
+                     --}}
+                  </a>
                </div>
                <div class="events-content">
                   <a href="/teachers-congress-and-team-building-activities">
