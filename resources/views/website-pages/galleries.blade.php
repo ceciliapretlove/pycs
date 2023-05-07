@@ -79,6 +79,57 @@
                </div>
             </div>
          </div>
+                  <div class="col-lg-4 col-md-6">
+            <div class="single-events-card style-4">
+               <div class="events-image">
+                  <a href="/litmus-pre-elementary-department">
+                  <img src="assets/images/galleries/pre_elementary_1.jpg" alt="Image">
+                  </a>
+                  <div class="date">
+                     {{-- <span>Feb 14, 2023</span> --}}
+                  </div>
+               </div>
+               <div class="events-content">
+                  <a href="/litmus-pre-elementary-department">
+                     <h3>PYCS Litmus 2023 - Pre Elementary Department</h3>
+                  </a>
+               </div>
+            </div>
+         </div>
+                  <div class="col-lg-4 col-md-6">
+            <div class="single-events-card style-4">
+               <div class="events-image">
+                  <a href="/litmus-lower-grade-department">
+                  <img src="assets/images/galleries/lower_grade_1.jpeg" alt="Image">
+                  </a>
+                  <div class="date">
+                     {{-- <span>Feb 14, 2023</span> --}}
+                  </div>
+               </div>
+               <div class="events-content">
+                  <a href="/litmus-lower-grade-department">
+                     <h3>PYCS Litmus 2023 - Lower Grade Department</h3>
+                  </a>
+               </div>
+            </div>
+         </div>
+                  <div class="col-lg-4 col-md-6">
+            <div class="single-events-card style-4">
+               <div class="events-image">
+                  <a href="/litmus-upper-grade-department">
+                  <img src="assets/images/galleries/upper_grade_1.jpg" alt="Image">
+                  </a>
+                  <div class="date">
+                     {{-- <span>Feb 14, 2023</span> --}}
+                  </div>
+               </div>
+               <div class="events-content">
+                  <a href="/litmus-upper-grade-department">
+                     <h3>PYCS Litmus 2023 - Upper Grade Department</h3>
+                  </a>
+               </div>
+            </div>
+         </div>
          <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
