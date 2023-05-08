@@ -215,6 +215,57 @@
                   </div>
                </div>
             </div>
+
+                        <div class="single-events-card style2">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/school-starts.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>July 24, 2023</h4>
+                     {{-- <span class="theme"> <strong>Theme:</strong> Humility, Honesty, Diligence</span> --}}
+                     <h5>Grand Welcome Program</h5>
+                     <h5>AM</h5>
+                  </div>
+               </div>
+            </div>
+
+                        <div class="single-events-card style2">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/school-starts.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>July 24 - July 28, 2023</h4>
+                  
+                     <h5>Orientation Week (Discipline, School Programs, Clubs)</h5>
+                     <h5>PM</h5>
+                  </div>
+               </div>
+            </div>
+
+                        <div class="single-events-card style2">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/school-starts.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>July 26, 2023</h4>
+                     <h5>Payment and Release of Textbooks</h5>
+                  </div>
+               </div>
+            </div>
+                                    <div class="single-events-card style2">
+               <div class="row">
+                  <div class="events-image col-4">
+                     <img src="assets/images/events/school-starts.jpg" >
+                  </div>
+                  <div class="events-content col-8">
+                     <h4>July 31, 2023</h4>
+                     <h5>Day 1 of Academic Activities for SY 2023-2024</h5>
+                  </div>
+               </div>
+            </div>
 {{--             <div class="single-events-card style2">
                <div class="row">
                   <div class="events-image col-4">
