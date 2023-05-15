@@ -239,7 +239,7 @@
                      <h4>July 24 - July 28, 2023</h4>
                   
                      <h5>Orientation Week (Discipline, School Programs, Clubs)</h5>
-                     <h5>PM</h5>
+                  
                   </div>
                </div>
             </div>
