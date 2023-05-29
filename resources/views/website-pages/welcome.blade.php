@@ -76,20 +76,23 @@
 
 
 
-         <div id="popup_banner4" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-1.jpg') }}')" >
+         <div id="popup_banner5" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-1.jpg') }}')" >
+          <button id="close5">&times;</button>
+         </div>
+            <div id="popup_banner4" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-3.jpg') }}')" >
           <button id="close4">&times;</button>
          </div>
-            <div id="popup_banner3" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-3.jpg') }}')" >
+                   <div id="popup_banner3" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-2.jpg') }}')" >
           <button id="close3">&times;</button>
          </div>
-                   <div id="popup_banner2" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-2.jpg') }}')" >
+
+         <div id="popup_banner2" class="popup" style="background-image: url('{{ asset('assets/images/banner/advisory.jpg') }}')" >
           <button id="close2">&times;</button>
          </div>
 
-         <div id="popup_banner1" class="popup" style="background-image: url('{{ asset('assets/images/banner/advisory.jpg') }}')" >
+         <div id="popup_banner1" class="popup" style="background-image: url('{{ asset('assets/images/banner/advisory2.jpg') }}')" >
           <button id="close">&times;</button>
          </div>
-
       </div>
    </div>
 </div>
@@ -124,11 +127,18 @@ $( document ).ready(function() {
             $('#popup_banner3').css({ 'display': 'none'});
    });
 
-   $('#popup_banne4').css({ 'opacity': '1'});
+   $('#popup_banner4').css({ 'opacity': '1'});
       $("button#close4").click(function(){
          $('#popup_banner4').delay(400).animate({'opacity':'0'},400);
          $('button#close4').css('display', 'none');
          $('#popup_banner4').css({ 'display': 'none'});
+     });
+
+         $('#popup_banner5').css({ 'opacity': '1'});
+      $("button#close5").click(function(){
+         $('#popup_banner5').delay(400).animate({'opacity':'0'},400);
+         $('button#close5').css('display', 'none');
+         $('#popup_banner5').css({ 'display': 'none'});
      });
 });
 
