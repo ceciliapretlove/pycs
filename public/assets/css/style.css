@@ -5124,24 +5124,38 @@ img.hover-shadow {
   cursor: pointer;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-.popup{
+.banner_popup {
+    display:none;
+    position:absolute;
+    margin:0 auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 
+}
+
+.close_banner {
+    font-size: 10px;
+    background: transparent;
+    border: none;
+    float: right;
+    padding: 10px 0px;
+}
+/*.popup{
     background-repeat: no-repeat;
     width: 889px;
-    height: 500px;
+    height: 100%;
   position: absolute;
-  border-radius: 5px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 20px 20px;
-  -webkit-box-shadow: -1px 2px 30px -8px rgba(0, 0, 0, 0.62);
-  -moz-box-shadow: -1px 2px 30px -8px rgba(0, 0, 0, 0.62);
-  box-shadow: -1px 2px 30px -8px rgba(0, 0, 0, 0.62);
-
+}
+.popup > img {
+    height: 100%;
+    position: absolute;
+     background-repeat: no-repeat;
+    width: 100%;
 }
 .popup > button{
     display: block;
@@ -5158,7 +5172,7 @@ img.hover-shadow {
     border: none;
     outline: none;
     cursor: pointer;
-}
+}*/
 /*.popup h2{
   margin-top: -20px;
 }

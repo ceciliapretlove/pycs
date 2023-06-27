@@ -73,26 +73,58 @@
          </div>
          <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="ri-arrow-left-line"></i></button><button type="button" role="presentation" class="owl-next"><i class="ri-arrow-right-line"></i></button></div>
          <div class="owl-dots disabled"></div>
+          <div id="popup" class="banner_popup panel panel-primary">
+               <div class="panel-footer">
+                  <button id="close" class="btn btn-lg btn-primary close_banner">x close</button>
+              </div>
+              <img src="{{asset('assets/images/banner/announcement.png')}}" alt="popup">
 
+          </div>
+            <div id="popup1" class="banner_popup panel panel-primary">
+               <div class="panel-footer">
+                  <button id="close1" class="btn btn-lg btn-primary close_banner">x close</button>
+              </div>
+              <img src="{{asset('assets/images/banner/advisory.jpg')}}" alt="popup">
 
+          </div>
+                      <div id="popup2" class="banner_popup panel panel-primary">
+               <div class="panel-footer">
+                  <button id="close2" class="btn btn-lg btn-primary close_banner">x close</button>
+              </div>
+              <img src="{{asset('assets/images/banner/school_banner-3.jpg')}}" alt="popup">
 
-         <div id="popup_banner5" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-1.jpg') }}')" >
+          </div>
+                     
+
+{{-- 
+         <div id="popup_banner5" class="popup">
+            <img  style="background-image: url('{{ asset('assets/images/banner/school_banner-1.jpg') }}')" >
           <button id="close5">&times;</button>
          </div>
-            <div id="popup_banner4" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-3.jpg') }}')" >
+            <div id="popup_banner4" class="popup" >
+               <img style="background-image: url('{{ asset('assets/images/banner/school_banner-3.jpg') }}')" >
           <button id="close4">&times;</button>
          </div>
-                   <div id="popup_banner3" class="popup" style="background-image: url('{{ asset('assets/images/banner/school_banner-2.jpg') }}')" >
+         <div id="popup_banner3" class="popup" >
+                     <img style="background-image: url('{{ asset('assets/images/banner/school_banner-2.jpg') }}')" >
           <button id="close3">&times;</button>
          </div>
 
-         <div id="popup_banner2" class="popup" style="background-image: url('{{ asset('assets/images/banner/advisory.jpg') }}')" >
+         <div id="popup_banner2" class="popup">
+            <img  style="background-image: url('{{ asset('assets/images/banner/advisory.jpg') }}')" >
           <button id="close2">&times;</button>
          </div>
 
-         <div id="popup_banner1" class="popup" style="background-image: url('{{ asset('assets/images/banner/advisory2.jpg') }}')" >
+         <div id="popup_banner1" class="popup"  >
+            <img style="background-image: url('{{ asset('assets/images/banner/advisory2.jpg') }}')">
           <button id="close">&times;</button>
          </div>
+
+         <div id="popup_banner0" class="popup">
+            <img style="background-image: url('{{ asset('assets/images/banner/announcement.png') }}')" >
+          <button id="close">&times;</button>
+         </div> --}}
+
       </div>
    </div>
 </div>
@@ -102,45 +134,75 @@
   integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
   crossorigin="anonymous"></script>
  <script type="text/javascript">
+$(document).ready(function () {
 
-$( document ).ready(function() {
+    $(".banner_popup").hide();
 
-    // $('.popup').css('display', 'block').show().fadeIn();
-      $('#popup_banner1').css({ 'opacity': '1'});
-         $("button#close").click(function(){
-           $('#popup_banner1').delay(400).animate({'opacity':'0'},400);
-            $('button#close').css('display', 'none');
-            $('#popup_banner1').css({ 'display': 'none'});
-         });
+   $("#popup").hide().fadeIn(1000);
+    $("#close").on("click", function (e) {
+        e.preventDefault();
+        $("#popup").fadeOut(1000);
+        $("#popup1").hide().fadeIn(1000);
+    });
 
-      $('#popup_banner2').css({ 'opacity': '1'});
-      $("button#close2").click(function(){
-          $('#popup_banner1').delay(400).animate({'opacity':'0'},400);
-          $('button#close2').css('display', 'none');
-          $('#popup_banner2').css({ 'display': 'none'});
-   });
+    
+    $("#close1").on("click", function (e) {
+        e.preventDefault();
+        $("#popup1").fadeOut(1000);
+        $("#popup2").hide().fadeIn(1000);
+    });
 
-      $('#popup_banner3').css({ 'opacity': '1'});
-      $("button#close3").click(function(){
-     $('#popup_banner3').delay(400).animate({'opacity':'0'},400);
-            $('button#close3').css('display', 'none');
-            $('#popup_banner3').css({ 'display': 'none'});
-   });
-
-   $('#popup_banner4').css({ 'opacity': '1'});
-      $("button#close4").click(function(){
-         $('#popup_banner4').delay(400).animate({'opacity':'0'},400);
-         $('button#close4').css('display', 'none');
-         $('#popup_banner4').css({ 'display': 'none'});
-     });
-
-         $('#popup_banner5').css({ 'opacity': '1'});
-      $("button#close5").click(function(){
-         $('#popup_banner5').delay(400).animate({'opacity':'0'},400);
-         $('button#close5').css('display', 'none');
-         $('#popup_banner5').css({ 'display': 'none'});
-     });
+ 
+    $("#close2").on("click", function (e) {
+        e.preventDefault();
+        $("#popup2").fadeOut(1000);
+    });
 });
+// $( document ).ready(function() {
+
+//     // $('.popup').css('display', 'block').show().fadeIn();
+//          $('#popup_banner0').css({ 'opacity': '1'});
+//          $("button#close").click(function(){
+//            $('#popup_banner0').delay(400).animate({'opacity':'0'},400);
+//             $('button#close').css('display', 'none');
+//             $('#popup_banner0').css({ 'display': 'none'});
+//          });
+
+//       $('#popup_banner1').css({ 'opacity': '1'});
+//          $("button#close").click(function(){
+//            $('#popup_banner1').delay(400).animate({'opacity':'0'},400);
+//             $('button#close').css('display', 'none');
+//             $('#popup_banner1').css({ 'display': 'none'});
+//          });
+
+//       $('#popup_banner2').css({ 'opacity': '1'});
+//       $("button#close2").click(function(){
+//           $('#popup_banner1').delay(400).animate({'opacity':'0'},400);
+//           $('button#close2').css('display', 'none');
+//           $('#popup_banner2').css({ 'display': 'none'});
+//    });
+
+//       $('#popup_banner3').css({ 'opacity': '1'});
+//       $("button#close3").click(function(){
+//      $('#popup_banner3').delay(400).animate({'opacity':'0'},400);
+//             $('button#close3').css('display', 'none');
+//             $('#popup_banner3').css({ 'display': 'none'});
+//    });
+
+//    $('#popup_banner4').css({ 'opacity': '1'});
+//       $("button#close4").click(function(){
+//          $('#popup_banner4').delay(400).animate({'opacity':'0'},400);
+//          $('button#close4').css('display', 'none');
+//          $('#popup_banner4').css({ 'display': 'none'});
+//      });
+
+//          $('#popup_banner5').css({ 'opacity': '1'});
+//       $("button#close5").click(function(){
+//          $('#popup_banner5').delay(400).animate({'opacity':'0'},400);
+//          $('button#close5').css('display', 'none');
+//          $('#popup_banner5').css({ 'display': 'none'});
+//      });
+// });
 
 
 
