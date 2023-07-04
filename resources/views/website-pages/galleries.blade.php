@@ -11,7 +11,24 @@
 <div class="events-area pt-100 pb-70">
    <div class="container">
       <div class="row justify-content-center">
-                  <div class="col-lg-4 col-md-6">
+         <div class="col-lg-4 col-md-6">
+            <div class="single-events-card style-4">
+               <div class="events-image">
+                  <a href="/braver-bolder-ready-to-conquer">
+                  <img src="assets/images/galleries/braver_4.jpg" alt="Image">
+                  </a>
+                  <div class="date">
+                     <span>Jul 4, 2023</span>
+                  </div>
+               </div>
+               <div class="events-content">
+                  <a href="/braver-bolder-ready-to-conquer">
+                     <h3>Braver, Bolder, Ready to Conquer </h3>
+                  </a>
+               </div>
+            </div>
+         </div>
+            <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">
                   <a href="/litmus-grade7">

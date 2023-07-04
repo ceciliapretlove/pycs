@@ -76,6 +76,7 @@ Route::get('/litmus-grade10', [WebsiteController::class, 'article11']);
 Route::get('/litmus-lower-grade-department', [WebsiteController::class, 'article12']);
 Route::get('/litmus-pre-elementary-department', [WebsiteController::class, 'article13']);
 Route::get('/litmus-upper-grade-department', [WebsiteController::class, 'article14']);
+Route::get('/braver-bolder-ready-to-conquer', [WebsiteController::class, 'article15']);
 
 Route::group( ['middleware' => 'auth' ], function()
 {

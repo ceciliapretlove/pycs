@@ -217,4 +217,9 @@ class WebsiteController extends Controller
     {
         return view('website-pages.litmus-upper-grade-department');
     }
+
+        public function article15()
+    {
+        return view('website-pages.braver-bolder-ready-to-conquer');
+    }
 }
