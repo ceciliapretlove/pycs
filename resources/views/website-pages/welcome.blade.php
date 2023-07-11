@@ -73,23 +73,30 @@
          </div>
          <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="ri-arrow-left-line"></i></button><button type="button" role="presentation" class="owl-next"><i class="ri-arrow-right-line"></i></button></div>
          <div class="owl-dots disabled"></div>
-          <div id="popup" class="banner_popup panel panel-primary">
+            <div id="popup" class="banner_popup panel panel-primary">
                <div class="panel-footer">
                   <button id="close" class="btn btn-lg btn-primary close_banner">x close</button>
+              </div>
+              <img src="{{asset('assets/images/banner/school_bus.png')}}" alt="popup">
+
+          </div>
+          <div id="popup1" class="banner_popup panel panel-primary">
+               <div class="panel-footer">
+                  <button id="close1" class="btn btn-lg btn-primary close_banner">x close</button>
               </div>
               <img src="{{asset('assets/images/banner/announcement.png')}}" alt="popup">
 
           </div>
-            <div id="popup1" class="banner_popup panel panel-primary">
+            <div id="popup2" class="banner_popup panel panel-primary">
                <div class="panel-footer">
-                  <button id="close1" class="btn btn-lg btn-primary close_banner">x close</button>
+                  <button id="close2" class="btn btn-lg btn-primary close_banner">x close</button>
               </div>
               <img src="{{asset('assets/images/banner/advisory.jpg')}}" alt="popup">
 
           </div>
-                      <div id="popup2" class="banner_popup panel panel-primary">
+         <div id="popup3" class="banner_popup panel panel-primary">
                <div class="panel-footer">
-                  <button id="close2" class="btn btn-lg btn-primary close_banner">x close</button>
+                  <button id="close3" class="btn btn-lg btn-primary close_banner">x close</button>
               </div>
               <img src="{{asset('assets/images/banner/school_banner-3.jpg')}}" alt="popup">
 
@@ -155,7 +162,13 @@ $(document).ready(function () {
  
     $("#close2").on("click", function (e) {
         e.preventDefault();
-        $("#popup2").fadeOut(1000);
+         $("#popup2").fadeOut(1000);
+        $("#popup3").hide().fadeIn(1000);
+    });
+
+        $("#close3").on("click", function (e) {
+        e.preventDefault();
+        $("#popup3").fadeOut(1000);
     });
 });
 // $( document ).ready(function() {
