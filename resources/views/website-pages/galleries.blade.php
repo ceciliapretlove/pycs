@@ -11,6 +11,23 @@
 <div class="events-area pt-100 pb-70">
    <div class="container">
       <div class="row justify-content-center">
+                  <div class="col-lg-4 col-md-6">
+            <div class="single-events-card style-4">
+               <div class="events-image">
+                  <a href="/2023-dost-sei-scholarship-passers">
+                  <img src="assets/images/galleries/scholarship.png" alt="Image">
+                  </a>
+                  <div class="date">
+                     <span>Jul 19, 2023</span>
+                  </div>
+               </div>
+               <div class="events-content">
+                  <a href="/2023-dost-sei-scholarship-passers">
+                     <h3>2023 DOST- SEI Scholars</h3>
+                  </a>
+               </div>
+            </div>
+         </div>
          <div class="col-lg-4 col-md-6">
             <div class="single-events-card style-4">
                <div class="events-image">

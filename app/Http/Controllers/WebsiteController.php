@@ -222,4 +222,9 @@ class WebsiteController extends Controller
     {
         return view('website-pages.braver-bolder-ready-to-conquer');
     }
+
+    public function article16()
+    {
+        return view('website-pages.2023-dost-sei-scholarship-passers');
+    }
 }
