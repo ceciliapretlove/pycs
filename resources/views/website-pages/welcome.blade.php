@@ -77,7 +77,7 @@
                <div class="panel-footer">
                   <button id="close" class="btn btn-lg btn-primary close_banner">x close</button>
               </div>
-              <img src="{{asset('assets/images/banner/welcome_back.png')}}" alt="popup">
+              <img src="{{asset('assets/images/banner/welcome_back-2.png')}}" alt="popup">
 
           </div>
 
