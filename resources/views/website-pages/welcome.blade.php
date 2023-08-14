@@ -73,13 +73,6 @@
          </div>
          <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="ri-arrow-left-line"></i></button><button type="button" role="presentation" class="owl-next"><i class="ri-arrow-right-line"></i></button></div>
          <div class="owl-dots disabled"></div>
-            <div id="popup" class="banner_popup panel panel-primary">
-               <div class="panel-footer">
-                  <button id="close" class="btn btn-lg btn-primary close_banner">x close</button>
-              </div>
-              <img src="{{asset('assets/images/banner/advisory3.png')}}" alt="popup">
-
-            </div>
 
             <div id="popup" class="banner_popup panel panel-primary">
                <div class="panel-footer">

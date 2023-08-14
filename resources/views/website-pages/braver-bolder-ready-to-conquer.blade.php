@@ -38,14 +38,22 @@
                   </div>
 
                   <div class="col-md-4  mt-4">
-                     <img src="assets/images/galleries/braver_7.jpg" alt="Image">
+                     <div class="row">
+                        <div class="col-12 mb-4">
+                           <img src="assets/images/galleries/braver_7.jpg" alt="Image">
+                        </div>
+
+                        <div class="col-12">
+                           <img src="assets/images/galleries/braver_30.jpg" alt="Image">
+                        </div>
+                     </div>
                   </div>
 
                   <div class="col-md-4  mt-4">
-                     <img src="assets/images/galleries/braver_8.jpg" alt="Image">
+                     <img src="assets/images/galleries/braver_8.jpg" alt="Image" height="648px">
                   </div>
                   <div class="col-md-4  mt-4">
-                     <img src="assets/images/galleries/braver_9.jpg" alt="Image">
+                     <img src="assets/images/galleries/braver_9.jpg" alt="Image" height="648px">
                   </div>
                   <div class="col-md-4  mt-4">
                      <img src="assets/images/galleries/braver_10.jpg" alt="Image">
@@ -65,11 +73,60 @@
                                     <div class="col-md-4  mt-4">
                      <img src="assets/images/galleries/braver_15.jpg" alt="Image">
                   </div>
-                                    <div class="col-md-4  mt-4">
-                     <img src="assets/images/galleries/braver_16.jpg" alt="Image">
+
+                  <div class="col-12  mt-4">
+                     
+                     <div class="row">
+                        <div class="col-6">
+                           <img src="assets/images/galleries/braver_16.jpg" alt="Image" height="976px">
+                        </div>
+                        <div class="col-6">
+                           <div class="row">
+                              <div class="col-12 mb-4">
+                                 <img src="assets/images/galleries/braver_17.jpg" alt="Image">
+                              </div>
+   
+                              <div class="col-12">
+                                 <img src="assets/images/galleries/braver_18.jpg" alt="Image">
+                              </div>
+                           </div>
+                        </div>
+                     </div>
                   </div>
 
-
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_19.jpg" alt="Image">
+                  </div>
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_20.jpg" alt="Image">
+                  </div>
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_21.jpg" alt="Image">
+                  </div>
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_22.jpg" alt="Image">
+                  </div>
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_23.jpg" alt="Image">
+                  </div>
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_24.jpg" alt="Image">
+                  </div>
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_25.jpg" alt="Image">
+                  </div>
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_26.jpg" alt="Image">
+                  </div>
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_27.jpg" alt="Image">
+                  </div>
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_28.jpg" alt="Image">
+                  </div>
+                  <div class="col-md-4  mt-4">
+                     <img src="assets/images/galleries/braver_29.jpg" alt="Image">
+                  </div>
                </div>
                </div>
             </div>
